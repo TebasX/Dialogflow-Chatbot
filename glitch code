@@ -1,1 +1,347 @@
+const express = require("express");
+const app =express();
+const bodyParser = require("body-parser");
+const axios = require("axios");
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
+function getSpreadsheet2(pais) {
+  return axios.get(
+    "https://sheet.best/api/sheets/2a9c49d4-f088-421e-af3b-e6ad535b7da5/tabs/" +
+      pais
+  );
+}
+
+var botaomenu = {
+  payload: {
+    richContent: [
+      [
+        {
+          type: "chips",
+          options: [{ text: "menu" }]
+        }
+      ]
+    ]
+  }
+};
+
+var menu = {
+  payload: {
+    richContent: [
+      [
+        {
+          options: [
+            {
+              text: "Documentos  R&D"
+            },
+            {
+              text: "Buscar produto"
+            },
+            {
+              text: "Solicitar Suporte/Soporte"
+            }
+          ],
+          type: "chips"
+        }
+      ]
+    ]
+  }
+};
+
+var chips = {
+  payload: {
+    richContent: [
+      [
+        {
+          type: "chips",
+          options: [
+            {
+              text: "Validade de Solução",
+              image: {
+                src: {
+                  rawUrl: ""
+                }
+              },
+              link: "https://www.uol.combr"
+            },
+            {
+              image: {
+                src: {
+                  rawUrl: ""
+                }
+              },
+              text: "biodegradabilidade",
+              link: "https://google.com"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+};
+
+var naoaplicavel = {
+  text: {
+    text: ["não aplicavel"]
+  }
+};
+
+var naoexiste = {
+  text: {
+    text: [
+      "Desculpe, não encontrei este produto neste pais. \n  Verifique se escreveu o nome corretamente.\n \n  Lo siento, no he encontrado este producto en este país. \n  Asegúrese de haber escrito el nombre correctamente."
+    ]
+  }
+};
+
+app.use(express.static("public"));
+app.get("/", (request, response) => {
+  response.sendfile(__dirname + "/views/index.html");
+});
+
+app.post("/dialogflow", function(request, response) {
+  var intentName = request.body.queryResult.intent.displayName;
+  var bio,
+    rinsed,
+    foodcontact,
+    friccao,
+    validade = "";
+
+  var search = 1;
+
+  if (intentName == "Lista_documentos") {
+    const Produto = request.body.queryResult.parameters["produtos"]
+      .toUpperCase()
+      .trim();
+    const pais = request.body.queryResult.parameters["pais"];
+    return getSpreadsheet2(pais).then(res => {
+      res.data.map(person => {
+        if (person.Produto.toUpperCase().trim() === Produto) {
+          search = 2;
+          if (
+            (person.Biodegradabilidade != "Não aplicável") &
+            (person.Biodegradabilidade != "No aplicable")
+          ) {
+            bio = "info";
+          }
+          if (
+            (person.Rinsed != "Não aplicável") &
+            (person.Rinsed != "No aplicable")
+          ) {
+            rinsed = "info";
+          }
+          if (
+            (person.FoodContact != "Não aplicável") &
+            (person.FoodContact != "No aplicable")
+          ) {
+            foodcontact = "info";
+          }
+          if (
+            (person.Fricção != "Não aplicável") &
+            (person.Fricção != "No aplicable")
+          ) {
+            friccao = "info";
+          }
+          if (
+            (person.Validadedesolucao != "Não aplicável") &
+            (person.Validadesolucao != "No aplicable")
+          ) {
+            validade = "info";
+          }
+          response.json({
+            fulfillmentMessages: [
+              {
+                payload: {
+                  richContent: [
+                    [
+                      {
+                        subtitle: "",
+                        actionLink: person["Biodegradabilidade"],
+                        type: bio,
+                        title: "Carta de biodegradabilidade"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                payload: {
+                  richContent: [
+                    [
+                      {
+                        subtitle: "",
+                        actionLink: person["Rinsed"],
+                        type: rinsed,
+                        title: "Carta Foodcontact com enxague"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                payload: {
+                  richContent: [
+                    [
+                      {
+                        subtitle: "",
+                        actionLink: person["FoodContact"],
+                        type: foodcontact,
+                        title: "Carta Foodcontact sem enxague"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                payload: {
+                  richContent: [
+                    [
+                      {
+                        subtitle: "",
+                        actionLink: person["Fricção"],
+                        type: friccao,
+                        title: "Coeficiente de fricção"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                payload: {
+                  richContent: [
+                    [
+                      {
+                        subtitle: "",
+                        actionLink: person["Validadedesolucao"],
+                        type: validade,
+                        title: "Validade de solução em uso"
+                      }
+                    ]
+                  ]
+                }
+              },
+              botaomenu
+            ]
+          });
+        }
+      });
+      if (search == 1) {
+        response.json({
+          fulfillmentMessages: [naoexiste, botaomenu]
+        });
+      }
+    });
+  }
+
+  if (intentName == "Default Welcome Intent") {
+    response.json({
+      fulfillmentMessages: [
+        {
+          text: {
+            text: [
+              "Olá, eu sou o Átomo o assistente de R&D Customer Support e lhe ajudarei com a sua solicitação técnica. \n" +
+                "\n  Hola, soy el Átomo asistente de R&D y lo ayudaré con su solicitud técnica."
+            ]
+          }
+        },
+        {
+          text: {
+            text: [
+              " Para começarmos escolha um tema ou digite o nome do produto que deseja pesquisar. \n \n  Para empezar, elija un tema o escriba el nombre del producto que desea buscar."
+            ]
+          }
+        },
+        menu
+      ]
+    });
+  }
+
+  if (intentName == "docespecifico") {
+    var Produto = request.body.queryResult.parameters["produtos"]
+      .toUpperCase()
+      .trim();
+    var pais = request.body.queryResult.parameters["pais"];
+    var documento = request.body.queryResult.parameters["rdss"];
+    var nomedoc;
+    if (documento == "Biodegradabilidade") {
+      nomedoc = "Carta de biodegradabilidades";
+    } else if (documento == "Rinsed") {
+      nomedoc = "Carta de foodcontact com enxague";
+    } else if (documento == "FoodContact") {
+      nomedoc = "Carta de foodcontact sem enxague";
+    } else if (documento == "Fricção") {
+      nomedoc = "Coeficiente de Fricção";
+    } else if (documento == "Validadedesolucao") {
+      nomedoc = "Validade de solução em uso";
+    }
+    return getSpreadsheet2(pais).then(res => {
+      var search = false;
+      res.data.map(person => {
+        if (person.Produto.toUpperCase().trim() === Produto) {
+          search = true;
+          if (
+            person[documento] === "Não aplicável" ||
+            person[documento] === "No aplicable"
+          ) {
+            response.json({
+              fulfillmentMessages: [naoaplicavel, botaomenu]
+            });
+          } else if (
+            person[documento].toLowerCase().indexOf("não disponível") != -1
+          ) {
+            response.json({
+              fulfillmentMessages: [
+                {
+                  payload: {
+                    richContent: [
+                      [
+                        {
+                          subtitle: "",
+                          actionLink:
+                            "https://docs.google.com/forms/d/e/1FAIpQLScoFkp7X3h_LfPStm05FaEyK4L8umdj7gM_adOlI2A3YFyCzQ/viewform",
+                          type: "info",
+                          title:
+                            "Documento não disponível, por favor enviar a sua solicitação através deste formulário. \n \n Documento no disponible,  por favor haga su solicitud a traves del formulario"
+                        }
+                      ]
+                    ]
+                  }
+                },
+                botaomenu
+              ]
+            });
+          } else {
+            response.json({
+              fulfillmentMessages: [
+                {
+                  payload: {
+                    richContent: [
+                      [
+                        {
+                          subtitle: "",
+                          actionLink: person[documento],
+                          type: "info",
+                          title: nomedoc + " " + Produto
+                        }
+                      ]
+                    ]
+                  }
+                },
+                botaomenu
+              ]
+            });
+          }
+        }
+      });
+      if (!search) {
+        response.json({
+          fulfillmentMessages: [naoexiste, botaomenu]
+        });
+      }
+    });
+  }
+});
+
+const listener = app.listen(process.env.PORT, function() {
+  console.log("Your app is listening on port " + listener.address().port);
+});
