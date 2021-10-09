@@ -1,0 +1,9 @@
+{
+  "id": "b76a88bd-4dca-4fb6-b6b3-7493a5f31fe9",
+  "name": "todos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

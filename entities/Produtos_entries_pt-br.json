@@ -1,0 +1,4405 @@
+[
+  {
+    "value": "DESCALE",
+    "synonyms": [
+      "DESCALE"
+    ]
+  },
+  {
+    "value": "Diverflow N53",
+    "synonyms": [
+      "Diverflow N53",
+      "n53"
+    ]
+  },
+  {
+    "value": "PASCAL",
+    "synonyms": [
+      "PASCAL"
+    ]
+  },
+  {
+    "value": "Passivante C",
+    "synonyms": [
+      "Passivante C"
+    ]
+  },
+  {
+    "value": "Super Dilac",
+    "synonyms": [
+      "Super Dilac"
+    ]
+  },
+  {
+    "value": "Cipton",
+    "synonyms": [
+      "Cipton"
+    ]
+  },
+  {
+    "value": "Clenebrite",
+    "synonyms": [
+      "Clenebrite"
+    ]
+  },
+  {
+    "value": "Complex",
+    "synonyms": [
+      "Complex"
+    ]
+  },
+  {
+    "value": "Divostar",
+    "synonyms": [
+      "Divostar "
+    ]
+  },
+  {
+    "value": "Divosan Hypochlorite",
+    "synonyms": [
+      "Divosan Hypochlorite"
+    ]
+  },
+  {
+    "value": "Divostar Quattro",
+    "synonyms": [
+      "Divostar Quattro",
+      "quattro"
+    ]
+  },
+  {
+    "value": "Divovap LCC",
+    "synonyms": [
+      "Divovap LCC"
+    ]
+  },
+  {
+    "value": "Softsafe",
+    "synonyms": [
+      "Softsafe"
+    ]
+  },
+  {
+    "value": "Total VC2",
+    "synonyms": [
+      "Total VC2"
+    ]
+  },
+  {
+    "value": "TP Cold",
+    "synonyms": [
+      "TP Cold"
+    ]
+  },
+  {
+    "value": "BOOSTER",
+    "synonyms": [
+      "BOOSTER"
+    ]
+  },
+  {
+    "value": "DIVOSAN FORTE",
+    "synonyms": [
+      "DIVOSAN FORTE"
+    ]
+  },
+  {
+    "value": "Divosan MH",
+    "synonyms": [
+      "Divosan MH"
+    ]
+  },
+  {
+    "value": "Divosan OHD-N",
+    "synonyms": [
+      "Divosan OHD-N",
+      "ohdn",
+      "ohd n"
+    ]
+  },
+  {
+    "value": "Divosan OSA-N",
+    "synonyms": [
+      "Divosan OSA-N",
+      "osan",
+      "osa n"
+    ]
+  },
+  {
+    "value": "Divosan TC86",
+    "synonyms": [
+      "Divosan TC86",
+      "tc86",
+      "tc 86"
+    ]
+  },
+  {
+    "value": "Divosan Uniforce",
+    "synonyms": [
+      "Divosan Uniforce",
+      "uniforce"
+    ]
+  },
+  {
+    "value": "ADD3",
+    "synonyms": [
+      "ADD3"
+    ]
+  },
+  {
+    "value": "Divos 1",
+    "synonyms": [
+      "Divos 1"
+    ]
+  },
+  {
+    "value": "Divos 108 ",
+    "synonyms": [
+      "Divos 108 "
+    ]
+  },
+  {
+    "value": "Divos 116",
+    "synonyms": [
+      "Divos 116"
+    ]
+  },
+  {
+    "value": "Divos PM",
+    "synonyms": [
+      "Divos PM"
+    ]
+  },
+  {
+    "value": "Divos X5",
+    "synonyms": [
+      "Divos X5",
+      "x5"
+    ]
+  },
+  {
+    "value": "produto1",
+    "synonyms": [
+      "produto1"
+    ]
+  },
+  {
+    "value": "Divosan Divosept 350",
+    "synonyms": [
+      "Divosan Divosept 350",
+      "Divosept 350"
+    ]
+  },
+  {
+    "value": "Divosan SaniBright",
+    "synonyms": [
+      "Divosan SaniBright",
+      "SaniBright"
+    ]
+  },
+  {
+    "value": "Divosan SHP",
+    "synonyms": [
+      "Divosan SHP",
+      "SHP"
+    ]
+  },
+  {
+    "value": "Dry Clean",
+    "synonyms": [
+      "Dry Clean",
+      "DRYCLEAN"
+    ]
+  },
+  {
+    "value": "Hypoclean",
+    "synonyms": [
+      "Hypoclean"
+    ]
+  },
+  {
+    "value": "Acifoam",
+    "synonyms": [
+      "Acifoam"
+    ]
+  },
+  {
+    "value": "Allclean",
+    "synonyms": [
+      "Allclean",
+      "all clean"
+    ]
+  },
+  {
+    "value": "Dicopan L",
+    "synonyms": [
+      "Dicopan L"
+    ]
+  },
+  {
+    "value": "Diverfoam DG",
+    "synonyms": [
+      "Diverfoam DG"
+    ]
+  },
+  {
+    "value": "Diverfoam Klenacid",
+    "synonyms": [
+      "Diverfoam Klenacid"
+    ]
+  },
+  {
+    "value": "Diverfoam Super CL",
+    "synonyms": [
+      "Diverfoam Super CL",
+      "SUPER CL"
+    ]
+  },
+  {
+    "value": "Easyfoam",
+    "synonyms": [
+      "Easyfoam"
+    ]
+  },
+  {
+    "value": "Enduro Kleen",
+    "synonyms": [
+      "Enduro Kleen"
+    ]
+  },
+  {
+    "value": "Fatsolve",
+    "synonyms": [
+      "Fatsolve"
+    ]
+  },
+  {
+    "value": "Fillerclean",
+    "synonyms": [
+      "Fillerclean"
+    ]
+  },
+  {
+    "value": "Hypofoam",
+    "synonyms": [
+      "Hypofoam"
+    ]
+  },
+  {
+    "value": "Powerfoam",
+    "synonyms": [
+      "Powerfoam"
+    ]
+  },
+  {
+    "value": "Safefoam",
+    "synonyms": [
+      "Safefoam"
+    ]
+  },
+  {
+    "value": "Acigel",
+    "synonyms": [
+      "Acigel"
+    ]
+  },
+  {
+    "value": "Diverfoam CA",
+    "synonyms": [
+      "Diverfoam CA"
+    ]
+  },
+  {
+    "value": "Powergel",
+    "synonyms": [
+      "Powergel"
+    ]
+  },
+  {
+    "value": "Securegel",
+    "synonyms": [
+      "Securegel"
+    ]
+  },
+  {
+    "value": "AF Lotemp",
+    "synonyms": [
+      "AF Lotemp"
+    ]
+  },
+  {
+    "value": "DiverContact L88",
+    "synonyms": [
+      "DiverContact L88",
+      "L-88",
+      "L88"
+    ]
+  },
+  {
+    "value": "DiverContact P16",
+    "synonyms": [
+      "DiverContact P16",
+      "divercontact P 16",
+      "P16",
+      "P 16"
+    ]
+  },
+  {
+    "value": "HT Liquid Clean",
+    "synonyms": [
+      "HT Liquid Clean"
+    ]
+  },
+  {
+    "value": "HT Lube",
+    "synonyms": [
+      "HT Lube"
+    ]
+  },
+  {
+    "value": "HT Lube AF",
+    "synonyms": [
+      "HT Lube AF"
+    ]
+  },
+  {
+    "value": "Safeclean",
+    "synonyms": [
+      "Safeclean"
+    ]
+  },
+  {
+    "value": "Titan S 123 TR",
+    "synonyms": [
+      "Titan S 123 TR"
+    ]
+  },
+  {
+    "value": "Divo 660",
+    "synonyms": [
+      "Divo 660"
+    ]
+  },
+  {
+    "value": "Divo Ultra",
+    "synonyms": [
+      "Divo Ultra"
+    ]
+  },
+  {
+    "value": "Divobrite Defend",
+    "synonyms": [
+      "Divobrite Defend"
+    ]
+  },
+  {
+    "value": "Integra HD",
+    "synonyms": [
+      "Integra HD"
+    ]
+  },
+  {
+    "value": "Kompleet",
+    "synonyms": [
+      "Kompleet"
+    ]
+  },
+  {
+    "value": "Kristalle",
+    "synonyms": [
+      "Kristalle"
+    ]
+  },
+  {
+    "value": "Breltak Plus",
+    "synonyms": [
+      "Breltak Plus"
+    ]
+  },
+  {
+    "value": "Divobrite RPB",
+    "synonyms": [
+      "Divobrite RPB"
+    ]
+  },
+  {
+    "value": "DivoMask NC",
+    "synonyms": [
+      "DivoMask NC"
+    ]
+  },
+  {
+    "value": "Divo LE",
+    "synonyms": [
+      "Divo LE"
+    ]
+  },
+  {
+    "value": "Divo NP",
+    "synonyms": [
+      "Divo NP"
+    ]
+  },
+  {
+    "value": "Dicolube 200",
+    "synonyms": [
+      "Dicolube 200"
+    ]
+  },
+  {
+    "value": "Dicolube 300",
+    "synonyms": [
+      "Dicolube 300",
+      "D300"
+    ]
+  },
+  {
+    "value": "Dicolube BLP",
+    "synonyms": [
+      "Dicolube BLP"
+    ]
+  },
+  {
+    "value": "Dicolube CR",
+    "synonyms": [
+      "Dicolube CR"
+    ]
+  },
+  {
+    "value": "Dicolube D64",
+    "synonyms": [
+      "Dicolube D64",
+      "d64"
+    ]
+  },
+  {
+    "value": "Dicolube Lujob",
+    "synonyms": [
+      "Dicolube Lujob"
+    ]
+  },
+  {
+    "value": "Dicolube Sustain 1",
+    "synonyms": [
+      "Dicolube Sustain 1",
+      "sustain"
+    ]
+  },
+  {
+    "value": "Dry Tech 4",
+    "synonyms": [
+      "Dry Tech 4"
+    ]
+  },
+  {
+    "value": "Speedloob",
+    "synonyms": [
+      "Speedloob"
+    ]
+  },
+  {
+    "value": "Divergard 1155 ",
+    "synonyms": [
+      "Divergard 1155 "
+    ]
+  },
+  {
+    "value": "Divergard 1165",
+    "synonyms": [
+      "Divergard 1165"
+    ]
+  },
+  {
+    "value": "Divergard 1205",
+    "synonyms": [
+      "Divergard 1205"
+    ]
+  },
+  {
+    "value": "Divergard 1310",
+    "synonyms": [
+      "Divergard 1310"
+    ]
+  },
+  {
+    "value": "Divergard 1343",
+    "synonyms": [
+      "Divergard 1343"
+    ]
+  },
+  {
+    "value": "Divergard 1410",
+    "synonyms": [
+      "Divergard 1410"
+    ]
+  },
+  {
+    "value": "Divergard 1412",
+    "synonyms": [
+      "Divergard 1412"
+    ]
+  },
+  {
+    "value": "Divergard 1422",
+    "synonyms": [
+      "Divergard 1422"
+    ]
+  },
+  {
+    "value": "Divergard 1450",
+    "synonyms": [
+      "Divergard 1450"
+    ]
+  },
+  {
+    "value": "Divergard 1531",
+    "synonyms": [
+      "Divergard 1531"
+    ]
+  },
+  {
+    "value": "Divergard 91150",
+    "synonyms": [
+      "Divergard 91150"
+    ]
+  },
+  {
+    "value": "Safe Confidence 41 C",
+    "synonyms": [
+      "Safe Confidence 41 C"
+    ]
+  },
+  {
+    "value": "Divergard 21043",
+    "synonyms": [
+      "Divergard 21043"
+    ]
+  },
+  {
+    "value": "Divergard 21211",
+    "synonyms": [
+      "Divergard 21211"
+    ]
+  },
+  {
+    "value": "Divergard 2300",
+    "synonyms": [
+      "Divergard 2300"
+    ]
+  },
+  {
+    "value": "Divergard 2310",
+    "synonyms": [
+      "Divergard 2310"
+    ]
+  },
+  {
+    "value": "Divergard 2331",
+    "synonyms": [
+      "Divergard 2331"
+    ]
+  },
+  {
+    "value": "Divergard 2360",
+    "synonyms": [
+      "Divergard 2360"
+    ]
+  },
+  {
+    "value": "Divergard 2810 ",
+    "synonyms": [
+      "Divergard 2810 "
+    ]
+  },
+  {
+    "value": "Divergard 3110",
+    "synonyms": [
+      "Divergard 3110"
+    ]
+  },
+  {
+    "value": "Divergard 3140",
+    "synonyms": [
+      "Divergard 3140"
+    ]
+  },
+  {
+    "value": "Divergard 42110",
+    "synonyms": [
+      "Divergard 42110"
+    ]
+  },
+  {
+    "value": "Divergard 42260",
+    "synonyms": [
+      "Divergard 42260"
+    ]
+  },
+  {
+    "value": "Divergard 42700",
+    "synonyms": [
+      "Divergard 42700"
+    ]
+  },
+  {
+    "value": "Divergard 43200",
+    "synonyms": [
+      "Divergard 43200"
+    ]
+  },
+  {
+    "value": "Divergard B96",
+    "synonyms": [
+      "Divergard B96"
+    ]
+  },
+  {
+    "value": "Divergard 95010",
+    "synonyms": [
+      "Divergard 95010"
+    ]
+  },
+  {
+    "value": "Divergard 95330",
+    "synonyms": [
+      "Divergard 95330"
+    ]
+  },
+  {
+    "value": "Divergard 95710",
+    "synonyms": [
+      "Divergard 95710"
+    ]
+  },
+  {
+    "value": "Divergard 95718",
+    "synonyms": [
+      "Divergard 95718"
+    ]
+  },
+  {
+    "value": "Divergard 93716 ",
+    "synonyms": [
+      "Divergard 93716 "
+    ]
+  },
+  {
+    "value": "Divoact H32",
+    "synonyms": [
+      "Divoact H32"
+    ]
+  },
+  {
+    "value": "Divosan CD 7,5",
+    "synonyms": [
+      "Divosan CD 7,5"
+    ]
+  },
+  {
+    "value": "Safe Klor Kleen",
+    "synonyms": [
+      "Safe Klor Kleen"
+    ]
+  },
+  {
+    "value": "Divergard 2350",
+    "synonyms": [
+      "Divergard 2350"
+    ]
+  },
+  {
+    "value": "Divergard 41400",
+    "synonyms": [
+      "Divergard 41400"
+    ]
+  },
+  {
+    "value": "Desolim Max Floral",
+    "synonyms": [
+      "Desolim Max Floral"
+    ]
+  },
+  {
+    "value": "Desolim Max Lavanda",
+    "synonyms": [
+      "Desolim Max Lavanda"
+    ]
+  },
+  {
+    "value": "Detergente Vero Clean",
+    "synonyms": [
+      "Detergente Vero Clean"
+    ]
+  },
+  {
+    "value": "Detergente Vero Plus BC",
+    "synonyms": [
+      "Detergente Vero Plus BC"
+    ]
+  },
+  {
+    "value": "Sactif Multi-Uso",
+    "synonyms": [
+      "Sactif Multi-Uso",
+      "Sactif Multi Uso",
+      "sactif multiusos"
+    ]
+  },
+  {
+    "value": "Taski Profi",
+    "synonyms": [
+      "Taski Profi"
+    ]
+  },
+  {
+    "value": "Clarax Desinfetante Lavanda",
+    "synonyms": [
+      "Clarax Desinfetante Lavanda"
+    ]
+  },
+  {
+    "value": "Desteril Lavanda",
+    "synonyms": [
+      "Desteril Lavanda"
+    ]
+  },
+  {
+    "value": "Fast Desinfetante Lavanda",
+    "synonyms": [
+      "Fast Desinfetante Lavanda"
+    ]
+  },
+  {
+    "value": "Divosan S1",
+    "synonyms": [
+      "Divosan S1"
+    ]
+  },
+  {
+    "value": "Fast Desinfetante Festa Das Flores",
+    "synonyms": [
+      "Fast Desinfetante Festa Das Flores"
+    ]
+  },
+  {
+    "value": "Taski Exact Ds Floral",
+    "synonyms": [
+      "Taski Exact Ds Floral"
+    ]
+  },
+  {
+    "value": "Vero Force Floral ",
+    "synonyms": [
+      "Vero Force Floral "
+    ]
+  },
+  {
+    "value": "Vero Force Lavanda",
+    "synonyms": [
+      "Vero Force Lavanda"
+    ]
+  },
+  {
+    "value": "Goodsense Fresh Phase",
+    "synonyms": [
+      "Goodsense Fresh Phase",
+      "Good sense fresh phase"
+    ]
+  },
+  {
+    "value": "Good Sense 30-day Air Freshener(PAD) -Green Apple",
+    "synonyms": [
+      "Good Sense 30-day Air Freshener(PAD) -Green Apple",
+      "Good Sense 30 Green Apple"
+    ]
+  },
+  {
+    "value": "Taski Tapi 101",
+    "synonyms": [
+      "Taski Tapi 101"
+    ]
+  },
+  {
+    "value": "Optimum Floral",
+    "synonyms": [
+      "Optimum Floral"
+    ]
+  },
+  {
+    "value": "Revive",
+    "synonyms": [
+      "Revive"
+    ]
+  },
+  {
+    "value": "Taski R 50",
+    "synonyms": [
+      "Taski R 50"
+    ]
+  },
+  {
+    "value": "Drax",
+    "synonyms": [
+      "Drax"
+    ]
+  },
+  {
+    "value": "GP Forward SC",
+    "synonyms": [
+      "GP Forward SC"
+    ]
+  },
+  {
+    "value": "Taski Combi Profi ",
+    "synonyms": [
+      "Taski Combi Profi "
+    ]
+  },
+  {
+    "value": "UHS SC Floor Cleaner",
+    "synonyms": [
+      "UHS SC Floor Cleaner"
+    ]
+  },
+  {
+    "value": "Joncrete Superior Adhesion",
+    "synonyms": [
+      "Joncrete Superior Adhesion"
+    ]
+  },
+  {
+    "value": "Cera Vero Plus",
+    "synonyms": [
+      "Cera Vero Plus"
+    ]
+  },
+  {
+    "value": "Traffic",
+    "synonyms": [
+      "Traffic"
+    ]
+  },
+  {
+    "value": "Acril ",
+    "synonyms": [
+      "Acril "
+    ]
+  },
+  {
+    "value": "Carefree ",
+    "synonyms": [
+      "Carefree "
+    ]
+  },
+  {
+    "value": "High Mileage Floor Finish",
+    "synonyms": [
+      "High Mileage Floor Finish"
+    ]
+  },
+  {
+    "value": "Plaza Plus",
+    "synonyms": [
+      "Plaza Plus"
+    ]
+  },
+  {
+    "value": "Prestige",
+    "synonyms": [
+      "Prestige"
+    ]
+  },
+  {
+    "value": "Reflet ",
+    "synonyms": [
+      "Reflet "
+    ]
+  },
+  {
+    "value": "Taski Eternum",
+    "synonyms": [
+      "Taski Eternum",
+      "eternum"
+    ]
+  },
+  {
+    "value": "Signature Ultra High Speed Finish",
+    "synonyms": [
+      "Signature Ultra High Speed Finish"
+    ]
+  },
+  {
+    "value": "Glance NA",
+    "synonyms": [
+      "Glance NA"
+    ]
+  },
+  {
+    "value": "View Concentrate",
+    "synonyms": [
+      "View Concentrate"
+    ]
+  },
+  {
+    "value": "Alpha HP",
+    "synonyms": [
+      "Alpha HP",
+      "alphahp"
+    ]
+  },
+  {
+    "value": "Drastic",
+    "synonyms": [
+      "Drastic"
+    ]
+  },
+  {
+    "value": "Freedom",
+    "synonyms": [
+      "Freedom"
+    ]
+  },
+  {
+    "value": "Jato",
+    "synonyms": [
+      "Jato"
+    ]
+  },
+  {
+    "value": "Clarax Removedor",
+    "synonyms": [
+      "Clarax Removedor"
+    ]
+  },
+  {
+    "value": "Prostrip SC",
+    "synonyms": [
+      "Prostrip SC"
+    ]
+  },
+  {
+    "value": "Taski Clonet",
+    "synonyms": [
+      "Taski Clonet"
+    ]
+  },
+  {
+    "value": "Suma Calc D5",
+    "synonyms": [
+      "Suma Calc D5"
+    ]
+  },
+  {
+    "value": "Block Whitener",
+    "synonyms": [
+      "Block Whitener"
+    ]
+  },
+  {
+    "value": "Suma Lube",
+    "synonyms": [
+      "Suma Lube"
+    ]
+  },
+  {
+    "value": "Virex Plus FLV",
+    "synonyms": [
+      "Virex Plus FLV",
+      "virex flv"
+    ]
+  },
+  {
+    "value": "Suma Chlor Liq",
+    "synonyms": [
+      "Suma Chlor Liq"
+    ]
+  },
+  {
+    "value": "Sumaveg",
+    "synonyms": [
+      "Sumaveg"
+    ]
+  },
+  {
+    "value": "Suma Chlor (D106)",
+    "synonyms": [
+      "Suma Chlor (D106)",
+      "D106"
+    ]
+  },
+  {
+    "value": "Suma Bac",
+    "synonyms": [
+      "Suma Bac"
+    ]
+  },
+  {
+    "value": "J-512",
+    "synonyms": [
+      "J-512",
+      "J512",
+      "J 512"
+    ]
+  },
+  {
+    "value": "Suma Grill",
+    "synonyms": [
+      "Suma Grill",
+      "GRILL"
+    ]
+  },
+  {
+    "value": "Suma Max",
+    "synonyms": [
+      "Suma Max"
+    ]
+  },
+  {
+    "value": "Suma Grill Hi Temp",
+    "synonyms": [
+      "Suma Grill Hi Temp",
+      "GRILL HI TEMP"
+    ]
+  },
+  {
+    "value": "Suma Clar A2",
+    "synonyms": [
+      "Suma Clar A2"
+    ]
+  },
+  {
+    "value": "Suma Rinse A5",
+    "synonyms": [
+      "Suma Rinse A5"
+    ]
+  },
+  {
+    "value": "Suma Ilan",
+    "synonyms": [
+      "Suma Ilan"
+    ]
+  },
+  {
+    "value": "Suma Power Clor",
+    "synonyms": [
+      "Suma Power Clor"
+    ]
+  },
+  {
+    "value": "Suma Mach",
+    "synonyms": [
+      "Suma Mach"
+    ]
+  },
+  {
+    "value": "Suma Alum",
+    "synonyms": [
+      "Suma Alum"
+    ]
+  },
+  {
+    "value": "Suma Supersol Líquido",
+    "synonyms": [
+      "Suma Supersol Líquido",
+      "super sol liquido"
+    ]
+  },
+  {
+    "value": "Suma Supersol LG",
+    "synonyms": [
+      "Suma Supersol LG",
+      "supersol lg"
+    ]
+  },
+  {
+    "value": "Suma Aluminum",
+    "synonyms": [
+      "Suma Aluminum"
+    ]
+  },
+  {
+    "value": "Suma Break UP SC",
+    "synonyms": [
+      "Suma Break UP SC",
+      "suma break up"
+    ]
+  },
+  {
+    "value": "Suma Piso",
+    "synonyms": [
+      "Suma Piso"
+    ]
+  },
+  {
+    "value": "Suma D27",
+    "synonyms": [
+      "Suma D27",
+      "D27"
+    ]
+  },
+  {
+    "value": "Suma Break UP Chlor",
+    "synonyms": [
+      "Suma Break UP Chlor",
+      "suma break up chlor"
+    ]
+  },
+  {
+    "value": "Clax Sonril",
+    "synonyms": [
+      "Clax Sonril",
+      "sonril"
+    ]
+  },
+  {
+    "value": "Clax Personril 35",
+    "synonyms": [
+      "Clax Personril 35",
+      "personril 35"
+    ]
+  },
+  {
+    "value": "Clax Personril conc",
+    "synonyms": [
+      "Clax Personril conc",
+      "personril conc",
+      "personril"
+    ]
+  },
+  {
+    "value": "Clax Oxy",
+    "synonyms": [
+      "Clax Oxy"
+    ]
+  },
+  {
+    "value": "Clax Clor",
+    "synonyms": [
+      "Clax Clor"
+    ]
+  },
+  {
+    "value": "Clax Hypo Conc",
+    "synonyms": [
+      "Clax Hypo Conc"
+    ]
+  },
+  {
+    "value": "Clax Beta Conc",
+    "synonyms": [
+      "Clax Beta Conc",
+      "beta conc",
+      "clax beta"
+    ]
+  },
+  {
+    "value": "Clax Build Lite",
+    "synonyms": [
+      "Clax Build Lite"
+    ]
+  },
+  {
+    "value": "Clax 200 ",
+    "synonyms": [
+      "Clax 200 "
+    ]
+  },
+  {
+    "value": "Clax 200 Color",
+    "synonyms": [
+      "Clax 200 Color"
+    ]
+  },
+  {
+    "value": "Clax Diveralk",
+    "synonyms": [
+      "Clax Diveralk",
+      "diveralk"
+    ]
+  },
+  {
+    "value": "Clax Aqua Blue",
+    "synonyms": [
+      "Clax Aqua Blue",
+      "aqua blue"
+    ]
+  },
+  {
+    "value": "Clax 3000",
+    "synonyms": [
+      "Clax 3000"
+    ]
+  },
+  {
+    "value": "Clax Solar",
+    "synonyms": [
+      "Clax Solar"
+    ]
+  },
+  {
+    "value": "Clax Profi",
+    "synonyms": [
+      "Clax Profi"
+    ]
+  },
+  {
+    "value": "Clax Mild",
+    "synonyms": [
+      "Clax Mild"
+    ]
+  },
+  {
+    "value": "Clax Merge",
+    "synonyms": [
+      "Clax Merge",
+      "merge"
+    ]
+  },
+  {
+    "value": "Clax Merge - NTA Free version LATAM",
+    "synonyms": [
+      "Clax Merge - NTA Free version LATAM",
+      "merge NTA free",
+      "clax merge NTA",
+      "clax merge NTA free"
+    ]
+  },
+  {
+    "value": "Clax Neutrapur Conc",
+    "synonyms": [
+      "Clax Neutrapur Conc",
+      "neutrapur conc"
+    ]
+  },
+  {
+    "value": "Clax Anti Chlor",
+    "synonyms": [
+      "Clax Anti Chlor",
+      "antichlor",
+      "anti chlor"
+    ]
+  },
+  {
+    "value": "Clax Rinse",
+    "synonyms": [
+      "Clax Rinse"
+    ]
+  },
+  {
+    "value": "Clax Tira Ferrugem",
+    "synonyms": [
+      "Clax Tira Ferrugem",
+      "tira ferrugem"
+    ]
+  },
+  {
+    "value": "Clax Removedor de Manchas",
+    "synonyms": [
+      "Clax Removedor de Manchas",
+      "removedor de manchas"
+    ]
+  },
+  {
+    "value": "Select Lava Roupas em Pó",
+    "synonyms": [
+      "Select Lava Roupas em Pó",
+      "Select Lava Roupas",
+      "select"
+    ]
+  },
+  {
+    "value": "Clax Soft Fresh ",
+    "synonyms": [
+      "Clax Soft Fresh",
+      "soft fresh"
+    ]
+  },
+  {
+    "value": "Clax Deosoft Conc",
+    "synonyms": [
+      "Clax Deosoft Conc",
+      "deosoft"
+    ]
+  },
+  {
+    "value": "Clax Pasta",
+    "synonyms": [
+      "Clax Pasta"
+    ]
+  },
+  {
+    "value": "Clax Jeans",
+    "synonyms": [
+      "Clax Jeans"
+    ]
+  },
+  {
+    "value": "Omin/Blendol Liquid Laundry Detergent",
+    "synonyms": [
+      "Omin/Blendol Liquid Laundry Detergent",
+      "Blendol Liquid Laundry Detergent"
+    ]
+  },
+  {
+    "value": "Blendol Max Sem Perfume",
+    "synonyms": [
+      "Blendol Max Sem Perfume"
+    ]
+  },
+  {
+    "value": "Blendol Max Com Perfume",
+    "synonyms": [
+      "Blendol Max Com Perfume"
+    ]
+  },
+  {
+    "value": "Duo-Cide Plus - Dye \u0026 Frag Free",
+    "synonyms": [
+      "Duo-Cide Plus - Dye \u0026 Frag Free",
+      "Duo-Cide Plus",
+      "duo cide",
+      "duo-cide"
+    ]
+  },
+  {
+    "value": "CLOROCIDE (725 KG)",
+    "synonyms": [
+      "CLOROCIDE (725 KG)",
+      "clorocide"
+    ]
+  },
+  {
+    "value": "HIPOCLOR",
+    "synonyms": [
+      "hipoclor"
+    ]
+  },
+  {
+    "value": "Virex Detergente Health",
+    "synonyms": [
+      "Virex Detergente Health",
+      "virex health",
+      "virex detergente"
+    ]
+  },
+  {
+    "value": "Oxivir Five 16 Concentrate",
+    "synonyms": [
+      "Oxivir Five 16 Concentrate",
+      "oxivir concentrate",
+      "oxivir five",
+      "oxivir conc",
+      "Oxivir Five 16 Conc"
+    ]
+  },
+  {
+    "value": "Orquimol",
+    "synonyms": [
+      "Orquimol"
+    ]
+  },
+  {
+    "value": "Solubex 20",
+    "synonyms": [
+      "Solubex 20"
+    ]
+  },
+  {
+    "value": "Solupan Liquido",
+    "synonyms": [
+      "Solupan Liquido",
+      "solupan"
+    ]
+  },
+  {
+    "value": "Supersol 10",
+    "synonyms": [
+      "Supersol 10"
+    ]
+  },
+  {
+    "value": "Titan SU 103",
+    "synonyms": [
+      "Titan SU 103",
+      "titan su"
+    ]
+  },
+  {
+    "value": "SUMASEPT",
+    "synonyms": [
+      "SUMASEPT"
+    ]
+  },
+  {
+    "value": "SoftCare Natural Rosas Brancas",
+    "synonyms": [
+      "SoftCare Natural Rosas Brancas",
+      "SoftCare Rosas Brancas"
+    ]
+  },
+  {
+    "value": "SoftCare Natural Lírio Branco com Maracujá",
+    "synonyms": [
+      "SoftCare Natural Lírio Branco com Maracujá",
+      "SoftCare Lírio Branco",
+      "SoftCare Natural  Maracujá"
+    ]
+  },
+  {
+    "value": "SC Enhance/ SC All Purpose",
+    "synonyms": [
+      "SC Enhance/ SC All Purpose",
+      "SC Enhance",
+      "SC All Purpose",
+      "enhance"
+    ]
+  },
+  {
+    "value": "SC Enhance/ SC All Purpose Foam",
+    "synonyms": [
+      "SC Enhance/ SC All Purpose Foam",
+      "SC Enhance Foam",
+      "SC All Purpose Foam",
+      "Enhance Foam",
+      "All Purpose Foam"
+    ]
+  },
+  {
+    "value": "Soft Care Reinol Liquid",
+    "synonyms": [
+      "Soft Care Reinol Liquid",
+      "Soft Care Reinol"
+    ]
+  },
+  {
+    "value": "SoftCare Essencial Lírio Branco com Maracujá",
+    "synonyms": [
+      "SoftCare Essencial Lírio Branco com Maracujá",
+      "Essencial Lírio Branco",
+      "Essencial Lírio Branco com Maracujá",
+      "Essencial Maracujá"
+    ]
+  },
+  {
+    "value": "SOFT CARE CLEAN",
+    "synonyms": [
+      "SOFT CARE CLEAN-CX6X0,8L",
+      "SOFT CARE CLEAN"
+    ]
+  },
+  {
+    "value": "SOFT CARE HANDSEPT CLEAN",
+    "synonyms": [
+      "SOFT CARE HANDSEPT CLEAN",
+      "HANDSEPT CLEAN",
+      "HANDSEPT"
+    ]
+  },
+  {
+    "value": "Nobla Sabonete / Clarax Soap",
+    "synonyms": [
+      "Nobla Sabonete / Clarax Soap",
+      "Clarax Soap",
+      "Nobla Sabonete"
+    ]
+  },
+  {
+    "value": "Sumanol SP 181",
+    "synonyms": [
+      "Sumanol SP 181",
+      "sumanol 181"
+    ]
+  },
+  {
+    "value": "Acidbrite 9",
+    "synonyms": [
+      "Acidbrite 9",
+      "acidbrite"
+    ]
+  },
+  {
+    "value": "Bruspray Acid",
+    "synonyms": [
+      "Bruspray Acid",
+      "bruspray"
+    ]
+  },
+  {
+    "value": "Diverflow SA",
+    "synonyms": [
+      "Diverflow SA"
+    ]
+  },
+  {
+    "value": "Diverflow SNS",
+    "synonyms": [
+      "Diverflow SNS",
+      "sns"
+    ]
+  },
+  {
+    "value": "Divos 2",
+    "synonyms": [
+      "Divos 2"
+    ]
+  },
+  {
+    "value": "Defoam",
+    "synonyms": [
+      "Defoam"
+    ]
+  },
+  {
+    "value": "Capture",
+    "synonyms": [
+      "Capture"
+    ]
+  },
+  {
+    "value": "Delvak",
+    "synonyms": [
+      "Delvak"
+    ]
+  },
+  {
+    "value": "Diverflow 156",
+    "synonyms": [
+      "Diverflow 156"
+    ]
+  },
+  {
+    "value": "Diverflow AK 116",
+    "synonyms": [
+      "Diverflow AK 116",
+      "ak 116"
+    ]
+  },
+  {
+    "value": "Diverflow LTC",
+    "synonyms": [
+      "Diverflow LTC",
+      "ltc"
+    ]
+  },
+  {
+    "value": "Divo 1126",
+    "synonyms": [
+      "Divo 1126"
+    ]
+  },
+  {
+    "value": "Divobrite",
+    "synonyms": [
+      "Divobrite"
+    ]
+  },
+  {
+    "value": "Divoflow 185",
+    "synonyms": [
+      "Divoflow 185"
+    ]
+  },
+  {
+    "value": "Divostar K",
+    "synonyms": [
+      "Divostar K"
+    ]
+  },
+  {
+    "value": "Extra CIP",
+    "synonyms": [
+      "Extra CIP"
+    ]
+  },
+  {
+    "value": "Resource",
+    "synonyms": [
+      "Resource"
+    ]
+  },
+  {
+    "value": "Divomil RD",
+    "synonyms": [
+      "Divomil RD"
+    ]
+  },
+  {
+    "value": "SU 331",
+    "synonyms": [
+      "SU 331"
+    ]
+  },
+  {
+    "value": "Trilport Diton L",
+    "synonyms": [
+      "Trilport Diton L"
+    ]
+  },
+  {
+    "value": "Divosan Activ",
+    "synonyms": [
+      "Divosan Activ"
+    ]
+  },
+  {
+    "value": "Divosan S6-3",
+    "synonyms": [
+      "Divosan S6-3",
+      "divosan s63"
+    ]
+  },
+  {
+    "value": "Closure Activ",
+    "synonyms": [
+      "Closure Activ"
+    ]
+  },
+  {
+    "value": "Closure Regen",
+    "synonyms": [
+      "Closure Regen"
+    ]
+  },
+  {
+    "value": "Divos 110",
+    "synonyms": [
+      "Divos 110"
+    ]
+  },
+  {
+    "value": "Divos 117",
+    "synonyms": [
+      "Divos 117"
+    ]
+  },
+  {
+    "value": "Divos 119 CL",
+    "synonyms": [
+      "Divos 119 CL"
+    ]
+  },
+  {
+    "value": "Divos 123",
+    "synonyms": [
+      "Divos 123"
+    ]
+  },
+  {
+    "value": "Divos 95",
+    "synonyms": [
+      "Divos 95"
+    ]
+  },
+  {
+    "value": "Divos A1",
+    "synonyms": [
+      "Divos A1"
+    ]
+  },
+  {
+    "value": "Divos ACP B1",
+    "synonyms": [
+      "Divos ACP B1"
+    ]
+  },
+  {
+    "value": "Divos ACP D1",
+    "synonyms": [
+      "Divos ACP D1"
+    ]
+  },
+  {
+    "value": "Divos ADD3",
+    "synonyms": [
+      "Divos ADD3"
+    ]
+  },
+  {
+    "value": "Divos LS",
+    "synonyms": [
+      "Divos LS"
+    ]
+  },
+  {
+    "value": "Alcosan",
+    "synonyms": [
+      "Alcosan"
+    ]
+  },
+  {
+    "value": "Delladet",
+    "synonyms": [
+      "Delladet"
+    ]
+  },
+  {
+    "value": "Jonclean 80",
+    "synonyms": [
+      "Jonclean 80"
+    ]
+  },
+  {
+    "value": "Spartec",
+    "synonyms": [
+      "Spartec"
+    ]
+  },
+  {
+    "value": "Suredis",
+    "synonyms": [
+      "Suredis"
+    ]
+  },
+  {
+    "value": "Viragri Plus",
+    "synonyms": [
+      "Viragri Plus"
+    ]
+  },
+  {
+    "value": "2180 Plus",
+    "synonyms": [
+      "2180 Plus"
+    ]
+  },
+  {
+    "value": "Dilac Z",
+    "synonyms": [
+      "Dilac Z"
+    ]
+  },
+  {
+    "value": "Diverfoam Alusafe",
+    "synonyms": [
+      "Diverfoam Alusafe"
+    ]
+  },
+  {
+    "value": "EnduroChlor",
+    "synonyms": [
+      "EnduroChlor"
+    ]
+  },
+  {
+    "value": "EnduroSuper",
+    "synonyms": [
+      "EnduroSuper"
+    ]
+  },
+  {
+    "value": "Floorclean",
+    "synonyms": [
+      "Floorclean"
+    ]
+  },
+  {
+    "value": "NP Freefoam",
+    "synonyms": [
+      "NP Freefoam"
+    ]
+  },
+  {
+    "value": "Profoam",
+    "synonyms": [
+      "Profoam"
+    ]
+  },
+  {
+    "value": "Shureclean Plus",
+    "synonyms": [
+      "Shureclean Plus"
+    ]
+  },
+  {
+    "value": "Superfoam",
+    "synonyms": [
+      "Superfoam"
+    ]
+  },
+  {
+    "value": "JD TF-30",
+    "synonyms": [
+      "JD TF-30",
+      "jd tf 30",
+      "jd tf"
+    ]
+  },
+  {
+    "value": "AF Silicon",
+    "synonyms": [
+      "AF Silicon"
+    ]
+  },
+  {
+    "value": "DiverContact A95",
+    "synonyms": [
+      "DiverContact A95",
+      "a95"
+    ]
+  },
+  {
+    "value": "Film \u0026 Scale Remover",
+    "synonyms": [
+      "Film \u0026 Scale Remover",
+      "film scale remover"
+    ]
+  },
+  {
+    "value": "HT Clean",
+    "synonyms": [
+      "HT Clean"
+    ]
+  },
+  {
+    "value": "Trilport A95",
+    "synonyms": [
+      "Trilport A95"
+    ]
+  },
+  {
+    "value": "Trilbrake",
+    "synonyms": [
+      "Trilbrake"
+    ]
+  },
+  {
+    "value": "Aluwash",
+    "synonyms": [
+      "Aluwash"
+    ]
+  },
+  {
+    "value": "Brightwash",
+    "synonyms": [
+      "Brightwash"
+    ]
+  },
+  {
+    "value": "Divo MR Plus",
+    "synonyms": [
+      "Divo MR Plus"
+    ]
+  },
+  {
+    "value": "Divo RPB",
+    "synonyms": [
+      "Divo RPB"
+    ]
+  },
+  {
+    "value": "Fosfree G",
+    "synonyms": [
+      "Fosfree G"
+    ]
+  },
+  {
+    "value": "Divo AI",
+    "synonyms": [
+      "Divo AI"
+    ]
+  },
+  {
+    "value": "Plastigleam",
+    "synonyms": [
+      "Plastigleam"
+    ]
+  },
+  {
+    "value": "Polypro",
+    "synonyms": [
+      "Polypro"
+    ]
+  },
+  {
+    "value": "Dicolube CT",
+    "synonyms": [
+      "Dicolube CT"
+    ]
+  },
+  {
+    "value": "Lujob",
+    "synonyms": [
+      "Lujob"
+    ]
+  },
+  {
+    "value": "Dicolube NP",
+    "synonyms": [
+      "Dicolube NP"
+    ]
+  },
+  {
+    "value": "Dicolube RS 148",
+    "synonyms": [
+      "Dicolube RS 148"
+    ]
+  },
+  {
+    "value": "Dicolube TPB",
+    "synonyms": [
+      "Dicolube TPB"
+    ]
+  },
+  {
+    "value": "Dry Tech 1",
+    "synonyms": [
+      "Dry Tech 1"
+    ]
+  },
+  {
+    "value": "Dry Tech 7",
+    "synonyms": [
+      "Dry Tech 7"
+    ]
+  },
+  {
+    "value": "Divergard B111",
+    "synonyms": [
+      "Divergard B111"
+    ]
+  },
+  {
+    "value": "Divergard B311",
+    "synonyms": [
+      "Divergard B311"
+    ]
+  },
+  {
+    "value": "Emerel Forte",
+    "synonyms": [
+      "Emerel Forte"
+    ]
+  },
+  {
+    "value": "Flash Fragrancias Cítrico",
+    "synonyms": [
+      "Flash Fragrancias Cítrico"
+    ]
+  },
+  {
+    "value": "Flash Fragancias Cherry",
+    "synonyms": [
+      "Flash Fragancias Cherry"
+    ]
+  },
+  {
+    "value": "Flash Fragancias Flores Silvestres",
+    "synonyms": [
+      "Flash Fragancias Flores Silvestres"
+    ]
+  },
+  {
+    "value": "Flash Fragancias Pino",
+    "synonyms": [
+      "Flash Fragancias Pino"
+    ]
+  },
+  {
+    "value": "Flash Fragancias Spa",
+    "synonyms": [
+      "Flash Fragancias Spa"
+    ]
+  },
+  {
+    "value": "Flash Lavanda",
+    "synonyms": [
+      "Flash Lavanda"
+    ]
+  },
+  {
+    "value": "Flash Pino",
+    "synonyms": [
+      "Flash Pino"
+    ]
+  },
+  {
+    "value": "Flash Ultra Cítrico",
+    "synonyms": [
+      "Flash Ultra Cítrico"
+    ]
+  },
+  {
+    "value": "Flash Ultra Flores Silvestres",
+    "synonyms": [
+      "Flash Ultra Flores Silvestres"
+    ]
+  },
+  {
+    "value": "Flash Ultra Spa",
+    "synonyms": [
+      "Flash Ultra Spa"
+    ]
+  },
+  {
+    "value": "Flash Cherry",
+    "synonyms": [
+      "Flash Cherry"
+    ]
+  },
+  {
+    "value": "Flash Ultra Lavanda",
+    "synonyms": [
+      "Flash Ultra Lavanda"
+    ]
+  },
+  {
+    "value": "Stride Limpiador",
+    "synonyms": [
+      "Stride Limpiador"
+    ]
+  },
+  {
+    "value": "Lem Aerosol",
+    "synonyms": [
+      "Lem Aerosol"
+    ]
+  },
+  {
+    "value": "Lem Intermediate",
+    "synonyms": [
+      "Lem Intermediate"
+    ]
+  },
+  {
+    "value": "Taski R2 Conc.",
+    "synonyms": [
+      "Taski R2 Conc.",
+      "taski R2"
+    ]
+  },
+  {
+    "value": "Good Sense Fresh Phase RTD",
+    "synonyms": [
+      "Good Sense Fresh Phase RTD",
+      "Fresh Phase RTD"
+    ]
+  },
+  {
+    "value": "Taski R5 Conc",
+    "synonyms": [
+      "Taski R5 Conc",
+      "taski r5"
+    ]
+  },
+  {
+    "value": "Rugbee Aerosol",
+    "synonyms": [
+      "Rugbee Aerosol"
+    ]
+  },
+  {
+    "value": "Rugbee",
+    "synonyms": [
+      "Rugbee"
+    ]
+  },
+  {
+    "value": "Taski Tr 103",
+    "synonyms": [
+      "Taski Tr 103"
+    ]
+  },
+  {
+    "value": "8M Restauradora",
+    "synonyms": [
+      "8M Restauradora"
+    ]
+  },
+  {
+    "value": "Conq-R-Dust Pressurized Mop Treatment",
+    "synonyms": [
+      "Conq-R-Dust Pressurized Mop Treatment",
+      "conq R"
+    ]
+  },
+  {
+    "value": "8M Classic",
+    "synonyms": [
+      "8M Classic"
+    ]
+  },
+  {
+    "value": "8M Hyper",
+    "synonyms": [
+      "8M Hyper"
+    ]
+  },
+  {
+    "value": "8M Negra",
+    "synonyms": [
+      "8M Negra"
+    ]
+  },
+  {
+    "value": "8M Roja",
+    "synonyms": [
+      "8M Roja"
+    ]
+  },
+  {
+    "value": "Carefree Floor Finish / Sealer",
+    "synonyms": [
+      "Carefree Floor Finish / Sealer",
+      "sealer",
+      "Carefree Floor Finish",
+      "floor finish",
+      "CAREFREE FLOOR FIN"
+    ]
+  },
+  {
+    "value": "Signature",
+    "synonyms": [
+      "Signature"
+    ]
+  },
+  {
+    "value": "Flash Vidrios Y Multiuso",
+    "synonyms": [
+      "Flash Vidrios Y Multiuso",
+      "Flash Vidrios",
+      "Flash Multiuso"
+    ]
+  },
+  {
+    "value": "View Aerosol",
+    "synonyms": [
+      "View Aerosol"
+    ]
+  },
+  {
+    "value": "View Hyper",
+    "synonyms": [
+      "View Hyper"
+    ]
+  },
+  {
+    "value": "View Ultra",
+    "synonyms": [
+      "View Ultra"
+    ]
+  },
+  {
+    "value": "Spitfire Sc Nam",
+    "synonyms": [
+      "Spitfire Sc Nam"
+    ]
+  },
+  {
+    "value": "End Bac II",
+    "synonyms": [
+      "End Bac II",
+      "end bac 2"
+    ]
+  },
+  {
+    "value": "Crew Limp.Desinfectante",
+    "synonyms": [
+      "Crew Limp.Desinfectante"
+    ]
+  },
+  {
+    "value": "Drastik",
+    "synonyms": [
+      "Drastik"
+    ]
+  },
+  {
+    "value": "Interm Flash Blanco Antibacterial",
+    "synonyms": [
+      "Interm Flash Blanco Antibacterial",
+      "Interm Flash Blanco"
+    ]
+  },
+  {
+    "value": "Forward Antibacterial",
+    "synonyms": [
+      "Forward Antibacterial"
+    ]
+  },
+  {
+    "value": "Interm Jubilee Baños",
+    "synonyms": [
+      "Interm Jubilee Baños"
+    ]
+  },
+  {
+    "value": "Taski R1 Conc",
+    "synonyms": [
+      "Taski R1 Conc"
+    ]
+  },
+  {
+    "value": "8M Lustrador / Blem Blanco",
+    "synonyms": [
+      "8M Lustrador / Blem Blanco",
+      "Blem Blanco",
+      "8M Lustrador"
+    ]
+  },
+  {
+    "value": "Concentrado Blem Blanco",
+    "synonyms": [
+      "Concentrado Blem Blanco"
+    ]
+  },
+  {
+    "value": "Deep Gloss Maintainer for Stainless Steel",
+    "synonyms": [
+      "Deep Gloss Maintainer for Stainless Steel",
+      "Deep Gloss Maintainer"
+    ]
+  },
+  {
+    "value": "8M Removedor",
+    "synonyms": [
+      "8M Removedor"
+    ]
+  },
+  {
+    "value": "Taski Pro Strip",
+    "synonyms": [
+      "Taski Pro Strip"
+    ]
+  },
+  {
+    "value": "Cera Jet",
+    "synonyms": [
+      "Cera Jet"
+    ]
+  },
+  {
+    "value": "Suma D4.4",
+    "synonyms": [
+      "Suma D4.4"
+    ]
+  },
+  {
+    "value": "Suma Freezer Floor Cleaner",
+    "synonyms": [
+      "Suma Freezer Floor Cleaner"
+    ]
+  },
+  {
+    "value": "SUMA J 512 SC",
+    "synonyms": [
+      "SUMA J 512 SC"
+    ]
+  },
+  {
+    "value": "Suma Plaq",
+    "synonyms": [
+      "Suma Plaq"
+    ]
+  },
+  {
+    "value": "Suma F4",
+    "synonyms": [
+      "Suma F4"
+    ]
+  },
+  {
+    "value": "Suma Crystal",
+    "synonyms": [
+      "Suma Crystal"
+    ]
+  },
+  {
+    "value": "Suma Lima",
+    "synonyms": [
+      "Suma Lima"
+    ]
+  },
+  {
+    "value": "Suma Nova",
+    "synonyms": [
+      "Suma Nova"
+    ]
+  },
+  {
+    "value": "Suma Dish",
+    "synonyms": [
+      "Suma Dish"
+    ]
+  },
+  {
+    "value": "Suma Dish Plus",
+    "synonyms": [
+      "Suma Dish Plus"
+    ]
+  },
+  {
+    "value": "Suma All in One",
+    "synonyms": [
+      "Suma All in One"
+    ]
+  },
+  {
+    "value": "Drax Hornos Y Parrillas",
+    "synonyms": [
+      "Drax Hornos Y Parrillas"
+    ]
+  },
+  {
+    "value": "Drax Antigrasa",
+    "synonyms": [
+      "Drax Antigrasa"
+    ]
+  },
+  {
+    "value": "Drax 78",
+    "synonyms": [
+      "Drax 78"
+    ]
+  },
+  {
+    "value": "Drax Lavavajillas Limón",
+    "synonyms": [
+      "Drax Lavavajillas Limón"
+    ]
+  },
+  {
+    "value": "Force Conc",
+    "synonyms": [
+      "Force Conc"
+    ]
+  },
+  {
+    "value": "Drax Ultra",
+    "synonyms": [
+      "Drax Ultra",
+      "force 15%"
+    ]
+  },
+  {
+    "value": "Suma Eden",
+    "synonyms": [
+      "Suma Eden"
+    ]
+  },
+  {
+    "value": "Flash Cítrico",
+    "synonyms": [
+      "Flash Cítrico"
+    ]
+  },
+  {
+    "value": "Interm Flash Cherry",
+    "synonyms": [
+      "Interm Flash Cherry"
+    ]
+  },
+  {
+    "value": "Interm Flash Lavanda",
+    "synonyms": [
+      "Interm Flash Lavanda"
+    ]
+  },
+  {
+    "value": "Drax Lavav. Limón",
+    "synonyms": [
+      "Drax Lavav. Limón"
+    ]
+  },
+  {
+    "value": "OMIN POLVO",
+    "synonyms": [
+      "OMIN POLVO"
+    ]
+  },
+  {
+    "value": "Jon Pro Suavizante / Omin Suavizante / Omin Classic Suavizante / Blendol Suavizante",
+    "synonyms": [
+      "Jon Pro Suavizante / Omin Suavizante / Omin Classic Suavizante / Blendol Suavizante",
+      "Jon Pro Suavizante",
+      "Omin Suavizante",
+      "Omin Classic Suavizante",
+      "Blendol Suavizante"
+    ]
+  },
+  {
+    "value": "Clax Personril",
+    "synonyms": [
+      "Clax Personril"
+    ]
+  },
+  {
+    "value": "Clax Activ",
+    "synonyms": [
+      "Clax Activ"
+    ]
+  },
+  {
+    "value": "Clax Hypo",
+    "synonyms": [
+      "Clax Hypo"
+    ]
+  },
+  {
+    "value": "Clax 100 OB",
+    "synonyms": [
+      "Clax 100 OB"
+    ]
+  },
+  {
+    "value": "Clax Enhance Extra",
+    "synonyms": [
+      "Clax Enhance Extra"
+    ]
+  },
+  {
+    "value": "Clax Profi ",
+    "synonyms": [
+      "Clax Profi "
+    ]
+  },
+  {
+    "value": "Clax Neutrapur",
+    "synonyms": [
+      "Clax Neutrapur"
+    ]
+  },
+  {
+    "value": "Clax CID",
+    "synonyms": [
+      "Clax CID"
+    ]
+  },
+  {
+    "value": "CLAX 7RL2 PERFUMINA",
+    "synonyms": [
+      "CLAX 7RL2 PERFUMINA",
+      "CLAX 7RL2"
+    ]
+  },
+  {
+    "value": "Omin Suavizante",
+    "synonyms": [
+      "Omin Suavizante"
+    ]
+  },
+  {
+    "value": "Omin Desmanchador Plus",
+    "synonyms": [
+      "Omin Desmanchador Plus"
+    ]
+  },
+  {
+    "value": "Jonpro Polvo Lavado",
+    "synonyms": [
+      "Jonpro Polvo Lavado"
+    ]
+  },
+  {
+    "value": "Omin Desmanchador",
+    "synonyms": [
+      "Omin Desmanchador"
+    ]
+  },
+  {
+    "value": "Omin Liquido - No fragrance version",
+    "synonyms": [
+      "Omin Liquido - No fragrance version",
+      "Omin Liquido"
+    ]
+  },
+  {
+    "value": "Clax Soft",
+    "synonyms": [
+      "Clax Soft"
+    ]
+  },
+  {
+    "value": "Clax Suave",
+    "synonyms": [
+      "Clax Suave"
+    ]
+  },
+  {
+    "value": "Jon Pro Liquido",
+    "synonyms": [
+      "Jon Pro Liquido"
+    ]
+  },
+  {
+    "value": "Virex II 256 ",
+    "synonyms": [
+      "Virex II 256",
+      "virex 256"
+    ]
+  },
+  {
+    "value": "Oxivir TB",
+    "synonyms": [
+      "Oxivir TB"
+    ]
+  },
+  {
+    "value": "Oxivir TB Wipes",
+    "synonyms": [
+      "Oxivir TB Wipes",
+      "oxivir wipes"
+    ]
+  },
+  {
+    "value": "PROF 500",
+    "synonyms": [
+      "PROF 500"
+    ]
+  },
+  {
+    "value": "Titan 9",
+    "synonyms": [
+      "Titan 9"
+    ]
+  },
+  {
+    "value": "Titan 30",
+    "synonyms": [
+      "Titan 30"
+    ]
+  },
+  {
+    "value": "Soft Care Plus Free ",
+    "synonyms": [
+      "Soft Care Plus Free",
+      "plus free"
+    ]
+  },
+  {
+    "value": "SOFTCARE ENHANCE",
+    "synonyms": [
+      "SOFTCARE ENHANCE"
+    ]
+  },
+  {
+    "value": "Nobla Rosas Blancas",
+    "synonyms": [
+      "Nobla Rosas Blancas"
+    ]
+  },
+  {
+    "value": "Nobla Manzana Verde",
+    "synonyms": [
+      "Nobla Manzana Verde"
+    ]
+  },
+  {
+    "value": "SoftCare Foam H2",
+    "synonyms": [
+      "SoftCare Foam H2"
+    ]
+  },
+  {
+    "value": "Soft Care Des E",
+    "synonyms": [
+      "Soft Care Des E",
+      "des e",
+      "dese",
+      "des-e"
+    ]
+  },
+  {
+    "value": "SOFTCARE FRESH",
+    "synonyms": [
+      "SOFTCARE FRESH"
+    ]
+  },
+  {
+    "value": "Soft Care Des-E Spray",
+    "synonyms": [
+      "Soft Care Des-E Spray",
+      "des-e spray",
+      "des e spray"
+    ]
+  },
+  {
+    "value": "Nobla Antibacterial Rosas Blancas",
+    "synonyms": [
+      "Nobla Antibacterial Rosas Blancas"
+    ]
+  },
+  {
+    "value": "SU 331 - P Free",
+    "synonyms": [
+      "SU 331 - P Free",
+      "SU 331 P FREE"
+    ]
+  },
+  {
+    "value": "Divos 80-2",
+    "synonyms": [
+      "Divos 80-2",
+      "80 2"
+    ]
+  },
+  {
+    "value": "Divo 412",
+    "synonyms": [
+      "Divo 412"
+    ]
+  },
+  {
+    "value": "Delvak FC",
+    "synonyms": [
+      "Delvak FC"
+    ]
+  },
+  {
+    "value": "Divo AHP",
+    "synonyms": [
+      "Divo AHP"
+    ]
+  },
+  {
+    "value": "Divo WWS",
+    "synonyms": [
+      "Divo WWS"
+    ]
+  },
+  {
+    "value": "Flash Desodorante Ambiental Lavanda",
+    "synonyms": [
+      "Flash Desodorante Ambiental Lavanda",
+      "Flash Desodorante Lavanda"
+    ]
+  },
+  {
+    "value": "Flash Pisos Manzana",
+    "synonyms": [
+      "Flash Pisos Manzana"
+    ]
+  },
+  {
+    "value": "Forward Conc",
+    "synonyms": [
+      "Forward Conc"
+    ]
+  },
+  {
+    "value": "Forward DC",
+    "synonyms": [
+      "Forward DC"
+    ]
+  },
+  {
+    "value": "60 Day Air System- Manzana Verde",
+    "synonyms": [
+      "60 Day Air System- Manzana Verde",
+      "60 day manzana",
+      "60 day manzana verde"
+    ]
+  },
+  {
+    "value": "60 Day Air System- Orange Grove (Experimental)",
+    "synonyms": [
+      "60 Day Air System- Orange Grove (Experimental)",
+      "60 Day Air System Orange Grove",
+      "60 Day Air System Orange",
+      "60 Day Orange"
+    ]
+  },
+  {
+    "value": "Good Sense 60-Day Air Freshener - Fresh",
+    "synonyms": [
+      "Good Sense 60-Day Air Freshener - Fresh",
+      "Good Sense 60-Day Fresh",
+      "Good Sense 60 Day"
+    ]
+  },
+  {
+    "value": "Fresh Phase Fabric Freshener Rtd",
+    "synonyms": [
+      "Fresh Phase Fabric Freshener Rtd",
+      "fresh phase fabric rtd",
+      "fresh phase fabric"
+    ]
+  },
+  {
+    "value": "Flash Desodorante Ambiental Elegant",
+    "synonyms": [
+      "Flash Desodorante Ambiental Elegant"
+    ]
+  },
+  {
+    "value": "Limpiador por Extracción",
+    "synonyms": [
+      "Limpiador por Extracción"
+    ]
+  },
+  {
+    "value": "Carpet Shampoo",
+    "synonyms": [
+      "Carpet Shampoo"
+    ]
+  },
+  {
+    "value": "R2 Plus non corrosive",
+    "synonyms": [
+      "R2 Plus non corrosive"
+    ]
+  },
+  {
+    "value": "8M Limpiador Lavanda",
+    "synonyms": [
+      "8M Limpiador Lavanda"
+    ]
+  },
+  {
+    "value": "8M Limpiador Mediterraneo",
+    "synonyms": [
+      "8M Limpiador Mediterraneo"
+    ]
+  },
+  {
+    "value": "Premia",
+    "synonyms": [
+      "Premia"
+    ]
+  },
+  {
+    "value": "Glance Non Ammoniated Glass Cleaner",
+    "synonyms": [
+      "Glance Non-Ammoniated Glass Cleaner",
+      "Glance Glass Cleaner"
+    ]
+  },
+  {
+    "value": "Pur-Eco Glass Cleaner Sc",
+    "synonyms": [
+      "Pur-Eco Glass Cleaner Sc",
+      "pur eco"
+    ]
+  },
+  {
+    "value": "View Ultra Chile",
+    "synonyms": [
+      "View Ultra Chile"
+    ]
+  },
+  {
+    "value": "Jubilee Baños",
+    "synonyms": [
+      "Jubilee Baños"
+    ]
+  },
+  {
+    "value": "Crew Shower, Tub \u0026 Tile Hc",
+    "synonyms": [
+      "Crew Shower, Tub \u0026 Tile Hc",
+      "crew shower",
+      "tub and Tile HC",
+      "crew shower hc"
+    ]
+  },
+  {
+    "value": "Lemon Shine-Up Rtu",
+    "synonyms": [
+      "Lemon Shine-Up Rtu"
+    ]
+  },
+  {
+    "value": "Suma Light / Drax Limón (LEM)",
+    "synonyms": [
+      "Suma Light / Drax Limón (LEM)",
+      "Suma Light",
+      "Drax Limón"
+    ]
+  },
+  {
+    "value": "Low cost softener",
+    "synonyms": [
+      "Low cost softener"
+    ]
+  },
+  {
+    "value": "Omin Matic",
+    "synonyms": [
+      "Omin Matic"
+    ]
+  },
+  {
+    "value": "Enhance Floral",
+    "synonyms": [
+      "Enhance Floral"
+    ]
+  },
+  {
+    "value": "Suma Inox",
+    "synonyms": [
+      "Suma Inox"
+    ]
+  },
+  {
+    "value": "suma Optimum 323",
+    "synonyms": [
+      "Optimum 323",
+      "Suma Optimum 323"
+    ]
+  },
+  {
+    "value": "Suma Bac Conc D10",
+    "synonyms": [
+      "Suma Bac Conc D10"
+    ]
+  },
+  {
+    "value": "Final Step 512 Sanitizer",
+    "synonyms": [
+      "Final Step 512 Sanitizer",
+      "Final Step 512"
+    ]
+  },
+  {
+    "value": "Suma Stat Plus D1 Bac",
+    "synonyms": [
+      "Suma Stat Plus D1 Bac"
+    ]
+  },
+  {
+    "value": "Suma Chlor",
+    "synonyms": [
+      "Suma Chlor"
+    ]
+  },
+  {
+    "value": "Suma Eden ",
+    "synonyms": [
+      "Suma Eden "
+    ]
+  },
+  {
+    "value": "Suma Drain",
+    "synonyms": [
+      "Suma Drain"
+    ]
+  },
+  {
+    "value": "Alka Plus",
+    "synonyms": [
+      "Alka Plus"
+    ]
+  },
+  {
+    "value": "Clax Aqua Blue new",
+    "synonyms": [
+      "Clax Aqua Blue new"
+    ]
+  },
+  {
+    "value": "CLAX STAIN REMOVER",
+    "synonyms": [
+      "CLAX STAIN REMOVER"
+    ]
+  },
+  {
+    "value": "Omin",
+    "synonyms": [
+      "Omin"
+    ]
+  },
+  {
+    "value": "Nobla Polvo",
+    "synonyms": [
+      "Nobla Polvo"
+    ]
+  },
+  {
+    "value": "Clax Master",
+    "synonyms": [
+      "Clax Master"
+    ]
+  },
+  {
+    "value": "GERMEKIL",
+    "synonyms": [
+      "GERMEKIL"
+    ]
+  },
+  {
+    "value": "Titam PROF 500",
+    "synonyms": [
+      "Titam PROF 500"
+    ]
+  },
+  {
+    "value": "Titan 35",
+    "synonyms": [
+      "Titan 35"
+    ]
+  },
+  {
+    "value": "Titan PROF 200",
+    "synonyms": [
+      "Titan PROF 200"
+    ]
+  },
+  {
+    "value": "Soft Care Plus Foam",
+    "synonyms": [
+      "Soft Care Plus Foam - LATAM",
+      "Soft Care Plus Foam"
+    ]
+  },
+  {
+    "value": "SoftCare AntiBac Foam",
+    "synonyms": [
+      "SoftCare AntiBac Foam",
+      "AntiBac Foam"
+    ]
+  },
+  {
+    "value": "SOFTCARE STERYLD ",
+    "synonyms": [
+      "SOFTCARE STERYLD "
+    ]
+  },
+  {
+    "value": "CHLOROHEX JAB ANTIS ",
+    "synonyms": [
+      "CHLOROHEX JAB ANTIS "
+    ]
+  },
+  {
+    "value": "STERYLDERME ",
+    "synonyms": [
+      "STERYLDERME "
+    ]
+  },
+  {
+    "value": "CHLOROHEX TOPICO ",
+    "synonyms": [
+      "CHLOROHEX TOPICO "
+    ]
+  },
+  {
+    "value": "ALCOHOL GEL ",
+    "synonyms": [
+      "ALCOHOL GEL "
+    ]
+  },
+  {
+    "value": "JABON GLICERINA ",
+    "synonyms": [
+      "JABON GLICERINA "
+    ]
+  },
+  {
+    "value": "ENHANCE ",
+    "synonyms": [
+      "ENHANCE "
+    ]
+  },
+  {
+    "value": "SOFTCARE GLICERINA ",
+    "synonyms": [
+      "SOFTCARE GLICERINA "
+    ]
+  },
+  {
+    "value": "Divoact H9",
+    "synonyms": [
+      "Divoact H9"
+    ]
+  },
+  {
+    "value": "Neutraclean",
+    "synonyms": [
+      "Neutraclean"
+    ]
+  },
+  {
+    "value": "Divo 29",
+    "synonyms": [
+      "Divo 29"
+    ]
+  },
+  {
+    "value": "Pro Strip",
+    "synonyms": [
+      "Pro Strip"
+    ]
+  },
+  {
+    "value": "Suma Combi",
+    "synonyms": [
+      "Suma Combi"
+    ]
+  },
+  {
+    "value": "Suma Carbon Remover K21",
+    "synonyms": [
+      "Suma Carbon Remover K21"
+    ]
+  },
+  {
+    "value": "Clax Perfumina",
+    "synonyms": [
+      "Clax Perfumina"
+    ]
+  },
+  {
+    "value": "Divosan Divoquat Forte",
+    "synonyms": [
+      "Divosan Divoquat Forte",
+      "Divoquat Forte"
+    ]
+  },
+  {
+    "value": "Divosan K",
+    "synonyms": [
+      "Divosan K"
+    ]
+  },
+  {
+    "value": "Diverdet",
+    "synonyms": [
+      "Diverdet"
+    ]
+  },
+  {
+    "value": "HD Plusfoam",
+    "synonyms": [
+      "HD Plusfoam"
+    ]
+  },
+  {
+    "value": "Super Takeoff",
+    "synonyms": [
+      "Super Takeoff"
+    ]
+  },
+  {
+    "value": "Divosan G5",
+    "synonyms": [
+      "Divosan G5",
+      "g5",
+      "divosan g-5"
+    ]
+  },
+  {
+    "value": "Du Fome",
+    "synonyms": [
+      "Du Fome"
+    ]
+  },
+  {
+    "value": "Foam Brite",
+    "synonyms": [
+      "Foam Brite"
+    ]
+  },
+  {
+    "value": "Divosan Suredis",
+    "synonyms": [
+      "Divosan Suredis"
+    ]
+  },
+  {
+    "value": "Acidbrite",
+    "synonyms": [
+      "Acidbrite"
+    ]
+  },
+  {
+    "value": "Breltak",
+    "synonyms": [
+      "Breltak"
+    ]
+  },
+  {
+    "value": "Brigthwash",
+    "synonyms": [
+      "Brigthwash"
+    ]
+  },
+  {
+    "value": "Deogen LT",
+    "synonyms": [
+      "Deogen LT"
+    ]
+  },
+  {
+    "value": "Deogen Plus LM",
+    "synonyms": [
+      "Deogen Plus LM"
+    ]
+  },
+  {
+    "value": "Deogen Plus LMD",
+    "synonyms": [
+      "Deogen Plus LMD"
+    ]
+  },
+  {
+    "value": "Dvos 80-6",
+    "synonyms": [
+      "Dvos 80-6",
+      "DIVOS 80 6"
+    ]
+  },
+  {
+    "value": "Divo MR",
+    "synonyms": [
+      "Divo MR"
+    ]
+  },
+  {
+    "value": "DIVODES FG",
+    "synonyms": [
+      "DIVODES FG"
+    ]
+  },
+  {
+    "value": "Divoklor Tabs",
+    "synonyms": [
+      "Divoklor Tabs"
+    ]
+  },
+  {
+    "value": "Divosan CD 25",
+    "synonyms": [
+      "Divosan CD 25"
+    ]
+  },
+  {
+    "value": "Divosan CD 7.5",
+    "synonyms": [
+      "Divosan CD 7.5",
+      "divosan CD 7,5",
+      "divosan CD 75"
+    ]
+  },
+  {
+    "value": "DryTech 4",
+    "synonyms": [
+      "DryTech 4"
+    ]
+  },
+  {
+    "value": "DryTech 1",
+    "synonyms": [
+      "DryTech 1"
+    ]
+  },
+  {
+    "value": "Spectak 2",
+    "synonyms": [
+      "Spectak 2"
+    ]
+  },
+  {
+    "value": "Spectak G",
+    "synonyms": [
+      "Spectak G"
+    ]
+  },
+  {
+    "value": "Carefree",
+    "synonyms": [
+      "Carefree"
+    ]
+  },
+  {
+    "value": "Joncrete",
+    "synonyms": [
+      "Joncrete"
+    ]
+  },
+  {
+    "value": "CREW CLINGING ",
+    "synonyms": [
+      "CREW CLINGING "
+    ]
+  },
+  {
+    "value": "CREW RR F\u0026S NA DISINFECTANT",
+    "synonyms": [
+      "CREW RR F\u0026S NA DISINFECTANT"
+    ]
+  },
+  {
+    "value": "Deep Gloss Maintainer",
+    "synonyms": [
+      "Deep Gloss Maintainer"
+    ]
+  },
+  {
+    "value": "Emerel Plus Creme Cleanser",
+    "synonyms": [
+      "Emerel Plus Creme Cleanser"
+    ]
+  },
+  {
+    "value": "Glance HC",
+    "synonyms": [
+      "Glance HC"
+    ]
+  },
+  {
+    "value": "Shine up",
+    "synonyms": [
+      "Shine up"
+    ]
+  },
+  {
+    "value": "SHINE-UP LEMON FURNITURE POLISH ",
+    "synonyms": [
+      "SHINE-UP LEMON FURNITURE POLISH "
+    ]
+  },
+  {
+    "value": "SPITFIRE POWER CLEANER ",
+    "synonyms": [
+      "SPITFIRE POWER CLEANER "
+    ]
+  },
+  {
+    "value": "SPITFIRE SC POWER CLEANER",
+    "synonyms": [
+      "SPITFIRE SC POWER CLEANER"
+    ]
+  },
+  {
+    "value": "VIEW VIDRIOS",
+    "synonyms": [
+      "VIEW VIDRIOS"
+    ]
+  },
+  {
+    "value": "GD SNS ODR CTR TGHODR NOSMK ",
+    "synonyms": [
+      "GD SNS ODR CTR TGHODR NOSMK "
+    ]
+  },
+  {
+    "value": "CLAX 100 ",
+    "synonyms": [
+      "CLAX 100 "
+    ]
+  },
+  {
+    "value": "Clax Deosoft Easy2Iron conc",
+    "synonyms": [
+      "Clax Deosoft Easy2Iron conc",
+      "Deosoft Easy2Iron"
+    ]
+  },
+  {
+    "value": "Clax Rust",
+    "synonyms": [
+      "Clax Rust"
+    ]
+  },
+  {
+    "value": "Clax Soft Fresh",
+    "synonyms": [
+      "Clax Soft Fresh"
+    ]
+  },
+  {
+    "value": "BLOCK WHITENER ",
+    "synonyms": [
+      "BLOCK WHITENER "
+    ]
+  },
+  {
+    "value": "BREAK UP II",
+    "synonyms": [
+      "BREAK UP II",
+      "break up 2"
+    ]
+  },
+  {
+    "value": "FINAL STEP 512 SAN",
+    "synonyms": [
+      "FINAL STEP 512 SAN"
+    ]
+  },
+  {
+    "value": "J-512 SANITIZER ",
+    "synonyms": [
+      "J-512 SANITIZER",
+      "j512 sanitizer"
+    ]
+  },
+  {
+    "value": "PRIME CUT ULTRA DEGREASER ",
+    "synonyms": [
+      "PRIME CUT ULTRA DEGREASER "
+    ]
+  },
+  {
+    "value": "SUMA DET. OLLAS Y U ",
+    "synonyms": [
+      "SUMA DET. OLLAS Y U "
+    ]
+  },
+  {
+    "value": "SUMA DRAIN MAINTAINER ",
+    "synonyms": [
+      "SUMA DRAIN MAINTAINER "
+    ]
+  },
+  {
+    "value": "SUMA J-512 SANITIZER",
+    "synonyms": [
+      "SUMA J-512 SANITIZER",
+      "suma j512"
+    ]
+  },
+  {
+    "value": "SUMA LIMA ",
+    "synonyms": [
+      "SUMA LIMA "
+    ]
+  },
+  {
+    "value": "SUMA OPTIMUM 323 ULTRA ",
+    "synonyms": [
+      "SUMA OPTIMUM 323 ULTRA",
+      "Optimum 323 Ultra"
+    ]
+  },
+  {
+    "value": "SUMA PAN CLEAN ",
+    "synonyms": [
+      "SUMA PAN CLEAN "
+    ]
+  },
+  {
+    "value": "SUMA RINSE",
+    "synonyms": [
+      "SUMA RINSE"
+    ]
+  },
+  {
+    "value": "SUMA SUPREME ",
+    "synonyms": [
+      "SUMA SUPREME "
+    ]
+  },
+  {
+    "value": "SUMA CALC",
+    "synonyms": [
+      "SUMA CALC"
+    ]
+  },
+  {
+    "value": "SOFT CARE FOAM",
+    "synonyms": [
+      "SOFT CARE FOAM"
+    ]
+  },
+  {
+    "value": "Soft Care Lux 2in1 H68 ",
+    "synonyms": [
+      "Soft Care Lux 2in1 H68 "
+    ]
+  },
+  {
+    "value": "Soft Care Fresh H1",
+    "synonyms": [
+      "Soft Care Fresh H1"
+    ]
+  },
+  {
+    "value": "SOFT CARE PLUS FREE FOAM ",
+    "synonyms": [
+      "SOFT CARE PLUS FREE FOAM",
+      "plus free foam"
+    ]
+  },
+  {
+    "value": "AF LOTEMP ",
+    "synonyms": [
+      "AF LOTEMP "
+    ]
+  },
+  {
+    "value": "Deogen Plus LM D",
+    "synonyms": [
+      "Deogen Plus LM D"
+    ]
+  },
+  {
+    "value": "DIVERGARD 2305",
+    "synonyms": [
+      "DIVERGARD 2305"
+    ]
+  },
+  {
+    "value": "DIVOACT H 32",
+    "synonyms": [
+      "DIVOACT H 32"
+    ]
+  },
+  {
+    "value": "DIVOSAN G8",
+    "synonyms": [
+      "DIVOSAN G8",
+      "g8",
+      "divosan g-8"
+    ]
+  },
+  {
+    "value": "DIVOSAN HS 35",
+    "synonyms": [
+      "DIVOSAN HS 35"
+    ]
+  },
+  {
+    "value": "DIVOSAN K ",
+    "synonyms": [
+      "DIVOSAN K "
+    ]
+  },
+  {
+    "value": "Divosan TC 86",
+    "synonyms": [
+      "Divosan TC 86",
+      "tc 86"
+    ]
+  },
+  {
+    "value": "DU FOME ",
+    "synonyms": [
+      "DU FOME "
+    ]
+  },
+  {
+    "value": "Everite",
+    "synonyms": [
+      "Everite"
+    ]
+  },
+  {
+    "value": "HD PLUSFOAM ",
+    "synonyms": [
+      "HD PLUSFOAM "
+    ]
+  },
+  {
+    "value": "SpeedConc",
+    "synonyms": [
+      "SpeedConc"
+    ]
+  },
+  {
+    "value": "SUPER FOAM",
+    "synonyms": [
+      "SUPER FOAM"
+    ]
+  },
+  {
+    "value": "SUPER TAKE OFF",
+    "synonyms": [
+      "SUPER TAKE OFF"
+    ]
+  },
+  {
+    "value": "Fuera",
+    "synonyms": [
+      "Fuera"
+    ]
+  },
+  {
+    "value": "HD Degreaser Azul",
+    "synonyms": [
+      "HD Degreaser Azul"
+    ]
+  },
+  {
+    "value": "Citrus Express",
+    "synonyms": [
+      "Citrus Express"
+    ]
+  },
+  {
+    "value": "Clax 100",
+    "synonyms": [
+      "Clax 100"
+    ]
+  },
+  {
+    "value": "Suma Block Whitener",
+    "synonyms": [
+      "Suma Block Whitener"
+    ]
+  },
+  {
+    "value": "Suma Divopasta Plus",
+    "synonyms": [
+      "Suma Divopasta Plus"
+    ]
+  },
+  {
+    "value": "Suma Frescor Cloro",
+    "synonyms": [
+      "Suma Frescor Cloro"
+    ]
+  },
+  {
+    "value": "Divos ACP E1",
+    "synonyms": [
+      "Divos ACP E1"
+    ]
+  },
+  {
+    "value": "Solo",
+    "synonyms": [
+      "Solo"
+    ]
+  },
+  {
+    "value": "Divosan Hypofoam",
+    "synonyms": [
+      "Divosan Hypofoam"
+    ]
+  },
+  {
+    "value": "SU 321",
+    "synonyms": [
+      "SU 321"
+    ]
+  },
+  {
+    "value": "SU 120",
+    "synonyms": [
+      "SU 120"
+    ]
+  },
+  {
+    "value": "Hydrochloric acid",
+    "synonyms": [
+      "Hydrochloric acid"
+    ]
+  },
+  {
+    "value": "SU 221",
+    "synonyms": [
+      "SU 221"
+    ]
+  },
+  {
+    "value": "SU 970",
+    "synonyms": [
+      "SU 970"
+    ]
+  },
+  {
+    "value": "DryFormance GS3",
+    "synonyms": [
+      "DryFormance GS3"
+    ]
+  },
+  {
+    "value": "DryFormance PB1",
+    "synonyms": [
+      "DryFormance PB1"
+    ]
+  },
+  {
+    "value": "Divergard Inhibit",
+    "synonyms": [
+      "Divergard Inhibit"
+    ]
+  },
+  {
+    "value": "Divergard B50",
+    "synonyms": [
+      "Divergard B50"
+    ]
+  },
+  {
+    "value": "Deep Gloss",
+    "synonyms": [
+      "Deep Gloss"
+    ]
+  },
+  {
+    "value": "Taski Energy",
+    "synonyms": [
+      "Taski Energy"
+    ]
+  },
+  {
+    "value": "Klinol",
+    "synonyms": [
+      "Klinol"
+    ]
+  },
+  {
+    "value": "Klinol 2 in 1 ",
+    "synonyms": [
+      "Klinol 2 in 1 "
+    ]
+  },
+  {
+    "value": "Klinol Multiusos",
+    "synonyms": [
+      "Klinol Multiusos"
+    ]
+  },
+  {
+    "value": "Klinol Vidrios e Superficies",
+    "synonyms": [
+      "Klinol Vidrios e Superficies",
+      "klinol vidros"
+    ]
+  },
+  {
+    "value": "Swing Mediterraneo",
+    "synonyms": [
+      "Swing Mediterraneo"
+    ]
+  },
+  {
+    "value": "60 Day Air System- Green Apple(Experimental)",
+    "synonyms": [
+      "60 Day Air System- Green Apple(Experimental)",
+      "60 Day Air System- Green Apple",
+      "60 Day Green Apple"
+    ]
+  },
+  {
+    "value": "Good Sense 60-Dias Aroma Fresco",
+    "synonyms": [
+      "Good Sense 60-Dias Aroma Fresco",
+      "good sense aroma fresco"
+    ]
+  },
+  {
+    "value": "Good Sense Fresh Phase Rtu",
+    "synonyms": [
+      "Good Sense Fresh Phase Rtu",
+      "Fresh Phase Rtu"
+    ]
+  },
+  {
+    "value": "Óptima Restaurador",
+    "synonyms": [
+      "Óptima Restaurador"
+    ]
+  },
+  {
+    "value": "Revive Plus Sc",
+    "synonyms": [
+      "Revive Plus Sc"
+    ]
+  },
+  {
+    "value": "Taski Floor Care",
+    "synonyms": [
+      "Taski Floor Care"
+    ]
+  },
+  {
+    "value": "Óptima Premium",
+    "synonyms": [
+      "Óptima Premium"
+    ]
+  },
+  {
+    "value": "Fiesta Limpiavidrios",
+    "synonyms": [
+      "Fiesta Limpiavidrios"
+    ]
+  },
+  {
+    "value": "Crew Bathroom Cleaning",
+    "synonyms": [
+      "Crew Bathroom Cleaning",
+      "crew bathroom"
+    ]
+  },
+  {
+    "value": "Crystal Shield Protector 2.0A",
+    "synonyms": [
+      "Crystal Shield Protector 2.0A"
+    ]
+  },
+  {
+    "value": "Glo Limpia (Col)",
+    "synonyms": [
+      "Glo Limpia (Col)",
+      "Glo Limpia"
+    ]
+  },
+  {
+    "value": "Suma Sanitizer",
+    "synonyms": [
+      "Suma Sanitizer"
+    ]
+  },
+  {
+    "value": "Final Step 512 ",
+    "synonyms": [
+      "Final Step 512 "
+    ]
+  },
+  {
+    "value": "Suma Blend",
+    "synonyms": [
+      "Suma Blend"
+    ]
+  },
+  {
+    "value": "ULC",
+    "synonyms": [
+      "ULC"
+    ]
+  },
+  {
+    "value": "Aerowash Plus",
+    "synonyms": [
+      "Aerowash Plus"
+    ]
+  },
+  {
+    "value": "Suma Cit",
+    "synonyms": [
+      "Suma Cit"
+    ]
+  },
+  {
+    "value": "Clax Build lite 12A1",
+    "synonyms": [
+      "Clax Build lite 12A1"
+    ]
+  },
+  {
+    "value": "Clax Secuestrante",
+    "synonyms": [
+      "Clax Secuestrante"
+    ]
+  },
+  {
+    "value": "Clax Deosoft Breeze 54A1",
+    "synonyms": [
+      "Clax Deosoft Breeze 54A1",
+      "Clax Deosoft Breeze"
+    ]
+  },
+  {
+    "value": "CLAX RUST 6FL1",
+    "synonyms": [
+      "CLAX RUST 6FL1"
+    ]
+  },
+  {
+    "value": "SC All Purpose",
+    "synonyms": [
+      "SC All Purpose"
+    ]
+  },
+  {
+    "value": "Clax Enhance  Extra",
+    "synonyms": [
+      "Clax Enhance  Extra"
+    ]
+  },
+  {
+    "value": "Britestar",
+    "synonyms": [
+      "Britestar"
+    ]
+  },
+  {
+    "value": "ClearKlens NTC",
+    "synonyms": [
+      "ClearKlens NTC"
+    ]
+  },
+  {
+    "value": "Dican Hazzit",
+    "synonyms": [
+      "Dican Hazzit"
+    ]
+  },
+  {
+    "value": "HI ALK NF",
+    "synonyms": [
+      "HI ALK NF"
+    ]
+  },
+  {
+    "value": "Divozon 35",
+    "synonyms": [
+      "Divozon 35"
+    ]
+  },
+  {
+    "value": "Divosan DB",
+    "synonyms": [
+      "Divosan DB"
+    ]
+  },
+  {
+    "value": "Divodes FG Wipes",
+    "synonyms": [
+      "Divodes FG Wipes",
+      "divodes wipes"
+    ]
+  },
+  {
+    "value": "SU 393",
+    "synonyms": [
+      "SU 393"
+    ]
+  },
+  {
+    "value": "Tego 51",
+    "synonyms": [
+      "Tego 51"
+    ]
+  },
+  {
+    "value": "Diverfoam Active",
+    "synonyms": [
+      "Diverfoam Active"
+    ]
+  },
+  {
+    "value": "Dicasil",
+    "synonyms": [
+      "Dicasil"
+    ]
+  },
+  {
+    "value": "DU 350 Bio",
+    "synonyms": [
+      "DU 350 Bio"
+    ]
+  },
+  {
+    "value": "DU 305 Bio",
+    "synonyms": [
+      "DU 305 Bio"
+    ]
+  },
+  {
+    "value": "Isogard",
+    "synonyms": [
+      "Isogard"
+    ]
+  },
+  {
+    "value": "Deogen Advance",
+    "synonyms": [
+      "Deogen Advance"
+    ]
+  },
+  {
+    "value": "Diverclean Remover FG",
+    "synonyms": [
+      "Diverclean Remover FG"
+    ]
+  },
+  {
+    "value": "H1 Lube",
+    "synonyms": [
+      "H1 Lube"
+    ]
+  },
+  {
+    "value": "Shurlube H",
+    "synonyms": [
+      "Shurlube H"
+    ]
+  },
+  {
+    "value": "Shurlube M",
+    "synonyms": [
+      "Shurlube M"
+    ]
+  },
+  {
+    "value": "Safe Confidence 40",
+    "synonyms": [
+      "Safe Confidence 40"
+    ]
+  },
+  {
+    "value": "Safe Confidence 40C",
+    "synonyms": [
+      "Safe Confidence 40C"
+    ]
+  },
+  {
+    "value": "Safe Supertrex",
+    "synonyms": [
+      "Safe Supertrex"
+    ]
+  },
+  {
+    "value": "D Sperse X",
+    "synonyms": [
+      "D Sperse X"
+    ]
+  },
+  {
+    "value": "Divercontact CL 12.5",
+    "synonyms": [
+      "Divercontact CL 12.5"
+    ]
+  },
+  {
+    "value": "Isomine",
+    "synonyms": [
+      "Isomine"
+    ]
+  },
+  {
+    "value": "Be Fresh Limon Ultra",
+    "synonyms": [
+      "Be Fresh Limon Ultra"
+    ]
+  },
+  {
+    "value": "Stride Citrus Sc",
+    "synonyms": [
+      "Stride Citrus Sc",
+      "stride citrus"
+    ]
+  },
+  {
+    "value": "Stride Floral",
+    "synonyms": [
+      "Stride Floral"
+    ]
+  },
+  {
+    "value": "View Limpiador Multiusos Aroma Limón",
+    "synonyms": [
+      "View Limpiador Multiusos Aroma Limón",
+      "View Limpiador Multiusos Limón",
+      "View  Limón"
+    ]
+  },
+  {
+    "value": "Forward Floral",
+    "synonyms": [
+      "Forward Floral"
+    ]
+  },
+  {
+    "value": "Triad III",
+    "synonyms": [
+      "Triad III"
+    ]
+  },
+  {
+    "value": "View Desinfectante Multiusos Aroma Floral",
+    "synonyms": [
+      "View Desinfectante Multiusos Aroma Floral",
+      "View Desinfectante Multiusos  Floral"
+    ]
+  },
+  {
+    "value": "Aromatizante Campestre",
+    "synonyms": [
+      "Aromatizante Campestre"
+    ]
+  },
+  {
+    "value": "Good Sense Air Freshener - Tuscan Garden",
+    "synonyms": [
+      "Good Sense Air Freshener - Tuscan Garden",
+      "Good Sense Air Freshener"
+    ]
+  },
+  {
+    "value": "Good Sense Hc Odor Counteractant Concentrate - Green Apple-Latam",
+    "synonyms": [
+      "Good Sense Hc Odor Counteractant Concentrate - Green Apple-Latam",
+      "Good Sense Hc Odor Counteractant Concentrate - Green Apple"
+    ]
+  },
+  {
+    "value": "Good Sense Hc-Fresh Liquid Air Freshener",
+    "synonyms": [
+      "Good Sense Hc-Fresh Liquid Air Freshener",
+      "Good Sense Hc"
+    ]
+  },
+  {
+    "value": "View Aromatizante Líquido Potpourri",
+    "synonyms": [
+      "View Aromatizante Líquido Potpourri"
+    ]
+  },
+  {
+    "value": "Odor Eliminator",
+    "synonyms": [
+      "Odor Eliminator"
+    ]
+  },
+  {
+    "value": "Citrus Express Gel",
+    "synonyms": [
+      "Citrus Express Gel"
+    ]
+  },
+  {
+    "value": "Jontec 300 Nc Conc",
+    "synonyms": [
+      "Jontec 300 Nc Conc"
+    ]
+  },
+  {
+    "value": "Snapback Spraybuff (Liquid)",
+    "synonyms": [
+      "Snapback Spraybuff (Liquid)",
+      "Snapback Spraybuff"
+    ]
+  },
+  {
+    "value": "Conq-R-Dust Mop Treatment",
+    "synonyms": [
+      "Conq-R-Dust Mop Treatment"
+    ]
+  },
+  {
+    "value": "Crew Emeral Multi-Surface Creme Cleanser",
+    "synonyms": [
+      "Crew Emeral Multi-Surface Creme Cleanser",
+      "crew emeral"
+    ]
+  },
+  {
+    "value": "Complete Floor Finish",
+    "synonyms": [
+      "Complete Floor Finish"
+    ]
+  },
+  {
+    "value": "Discharge Static Dissipative Floor Finish",
+    "synonyms": [
+      "Discharge Static Dissipative Floor Finish"
+    ]
+  },
+  {
+    "value": "View",
+    "synonyms": [
+      "View"
+    ]
+  },
+  {
+    "value": "View Limpiador Y Protector De Vidrios Y Espejos",
+    "synonyms": [
+      "View Limpiador Y Protector De Vidrios Y Espejos"
+    ]
+  },
+  {
+    "value": "Vitrio",
+    "synonyms": [
+      "Vitrio"
+    ]
+  },
+  {
+    "value": "Vectra Floor Finish",
+    "synonyms": [
+      "Vectra Floor Finish"
+    ]
+  },
+  {
+    "value": "Spitfire Rtu",
+    "synonyms": [
+      "Spitfire Rtu"
+    ]
+  },
+  {
+    "value": "Germysan",
+    "synonyms": [
+      "Germysan"
+    ]
+  },
+  {
+    "value": "Alpha Hp Multi-Surface Clnr",
+    "synonyms": [
+      "Alpha Hp Multi-Surface Clnr",
+      "alpha hp multi",
+      "alpha hp multi surface"
+    ]
+  },
+  {
+    "value": "Sactif Baños",
+    "synonyms": [
+      "Sactif Baños"
+    ]
+  },
+  {
+    "value": "Crew Shower T\u0026T-Yellow Version",
+    "synonyms": [
+      "Crew Shower T\u0026T-Yellow Version"
+    ]
+  },
+  {
+    "value": "Pasta Amarilla",
+    "synonyms": [
+      "Pasta Amarilla"
+    ]
+  },
+  {
+    "value": "Sactif Muebles",
+    "synonyms": [
+      "Sactif Muebles"
+    ]
+  },
+  {
+    "value": "Eco-Cristal Renovador de Brillo",
+    "synonyms": [
+      "Eco-Cristal Renovador de Brillo",
+      "Eco Cristal"
+    ]
+  },
+  {
+    "value": "Pasta Blanca",
+    "synonyms": [
+      "Pasta Blanca"
+    ]
+  },
+  {
+    "value": "Crew Shower, Tub \u0026 Tile Hc (Dual Organic Acid) R1 Plus Concentrated Toilet Bowl Cleaner",
+    "synonyms": [
+      "Crew Shower, Tub \u0026 Tile Hc (Dual Organic Acid) R1 Plus Concentrated Toilet Bowl Cleaner",
+      "Crew Shower",
+      "Tub \u0026 Tile Hc",
+      "Toilet Bowl Cleaner"
+    ]
+  },
+  {
+    "value": "Fast Desengrasante para Cocinas",
+    "synonyms": [
+      "Fast Desengrasante para Cocinas"
+    ]
+  },
+  {
+    "value": "Fast Detergente Limón",
+    "synonyms": [
+      "Fast Detergente Limón"
+    ]
+  },
+  {
+    "value": "Nobla Manzana Verde ",
+    "synonyms": [
+      "Nobla Manzana Verde "
+    ]
+  },
+  {
+    "value": "Nobla Almonds ",
+    "synonyms": [
+      "Nobla Almonds "
+    ]
+  },
+  {
+    "value": "Inox",
+    "synonyms": [
+      "Inox"
+    ]
+  },
+  {
+    "value": "Frescor Cloro",
+    "synonyms": [
+      "Frescor Cloro"
+    ]
+  },
+  {
+    "value": "Suma Deosan",
+    "synonyms": [
+      "Suma Deosan"
+    ]
+  },
+  {
+    "value": "Suma Divosan KS",
+    "synonyms": [
+      "Suma Divosan KS"
+    ]
+  },
+  {
+    "value": "Final Step 512",
+    "synonyms": [
+      "Final Step 512"
+    ]
+  },
+  {
+    "value": "Suma D9.4",
+    "synonyms": [
+      "Suma D9.4",
+      "Suma D94"
+    ]
+  },
+  {
+    "value": "Suma Brite",
+    "synonyms": [
+      "Suma Brite"
+    ]
+  },
+  {
+    "value": "Suma Detergente de Ollas y Utensílios",
+    "synonyms": [
+      "Suma Detergente de Ollas y Utensílios"
+    ]
+  },
+  {
+    "value": "JP 2en1",
+    "synonyms": [
+      "JP 2en1"
+    ]
+  },
+  {
+    "value": "Divopasta",
+    "synonyms": [
+      "Divopasta"
+    ]
+  },
+  {
+    "value": "Suma Viper",
+    "synonyms": [
+      "Suma Viper"
+    ]
+  },
+  {
+    "value": "Suma JP 2en1 Plus (Accumix MX)",
+    "synonyms": [
+      "Suma JP 2en1 Plus (Accumix MX)"
+    ]
+  },
+  {
+    "value": "Suma Mineral Oil Lubricant",
+    "synonyms": [
+      "Suma Mineral Oil Lubricant"
+    ]
+  },
+  {
+    "value": "JP 2em1",
+    "synonyms": [
+      "JP 2em1"
+    ]
+  },
+  {
+    "value": "Diverpro 7F",
+    "synonyms": [
+      "Diverpro 7F"
+    ]
+  },
+  {
+    "value": "Clax Durasoft",
+    "synonyms": [
+      "Clax Durasoft"
+    ]
+  },
+  {
+    "value": "Clax Deosoft sensitive G",
+    "synonyms": [
+      "Clax Deosoft sensitive G",
+      "Deosoft sensitive G"
+    ]
+  },
+  {
+    "value": "Clax Neutrapur conc 60C1",
+    "synonyms": [
+      "Clax Neutrapur conc 60C1",
+      "neutrapur conc 60c1",
+      "neutrapur 60c1"
+    ]
+  },
+  {
+    "value": "Clax Soft Fresh 50A1",
+    "synonyms": [
+      "Clax Soft Fresh 50A1"
+    ]
+  },
+  {
+    "value": "Clax Master 31A1",
+    "synonyms": [
+      "Clax Master 31A1"
+    ]
+  },
+  {
+    "value": "Oxivir 1",
+    "synonyms": [
+      "Oxivir 1"
+    ]
+  },
+  {
+    "value": "SoftCare Bacto Wash Bio",
+    "synonyms": [
+      "SoftCare Bacto Wash Bio"
+    ]
+  },
+  {
+    "value": "SoftCare Basic",
+    "synonyms": [
+      "SoftCare Basic"
+    ]
+  },
+  {
+    "value": "SoftCare Foam Soap",
+    "synonyms": [
+      "SoftCare Foam Soap"
+    ]
+  },
+  {
+    "value": "SoftCare Sensitive",
+    "synonyms": [
+      "SoftCare Sensitive LATAM",
+      "SoftCare Sensitive"
+    ]
+  },
+  {
+    "value": "SOFTCARE FRESH GRANEL",
+    "synonyms": [
+      "SOFTCARE FRESH GRANEL"
+    ]
+  },
+  {
+    "value": "Soft Care Med Spray",
+    "synonyms": [
+      "Soft Care Med Spray"
+    ]
+  },
+  {
+    "value": "Soft Care Dove 2in1",
+    "synonyms": [
+      "Soft Care Dove 2in1"
+    ]
+  },
+  {
+    "value": "Soft Care Lux 2in1",
+    "synonyms": [
+      "Soft Care Lux 2in1"
+    ]
+  },
+  {
+    "value": "Drax Lava Louças Conc",
+    "synonyms": [
+      "Drax Lava Louças Conc"
+    ]
+  },
+  {
+    "value": "suma alvo liquido",
+    "synonyms": [
+      "suma alvo liquido"
+    ]
+  },
+  {
+    "value": "clarax detergente",
+    "synonyms": [
+      "clarax detergente"
+    ]
+  },
+  {
+    "value": "Drax Lava Louças Conc",
+    "synonyms": [
+      "Drax Lava Louças Conc"
+    ]
+  },
+  {
+    "value": "Divomask FA",
+    "synonyms": [
+      "Divomask FA",
+      "FA"
+    ]
+  }
+]

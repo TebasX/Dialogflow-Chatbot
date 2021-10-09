@@ -1,0 +1,141 @@
+{
+  "id": "75d1eb40-08ea-4847-ad67-00bb2c6f2256",
+  "name": "outros_documentos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1e117003-7bc5-4bb3-9545-429d7effbf2e",
+          "name": "outras_areas",
+          "required": false,
+          "dataType": "@outras_areas",
+          "value": "$outras_areas",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a89ec4f8-4406-4f17-9692-69b5c2dcecd4",
+          "name": "Produtos",
+          "required": false,
+          "dataType": "@Produtos",
+          "value": "$Produtos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Para consultar outros documentos acesse o site:",
+          "title": "Este documento é fornecido por outra área:",
+          "buttons": [
+            {
+              "postback": "https://sites.google.com/a/diversey.com/documentacao-de-produtos/",
+              "text": "Documentação de produtos:"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "Documentos R\u0026D",
+                      "text": "Documentos de R\u0026D"
+                    }
+                  ]
+                ]
+              },
+              "text": "Para saber quais documentos R\u0026D fornece click a baixo"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "$outras_areas.original é um documento disponibilizado por outra área, você pode procura-lo neste link:\n\n$outras_areas.original es un documento puesto a disposición por otra área, puede buscarlo en este link:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "https://sites.google.com/d/1jX7HOnZGH3jM5kCb6C_2s19U6AO4ntz8/p/1N_LB4MsW-vPbdGvGCHVEDzl8zJiCoELY/edit",
+                  "type": "info",
+                  "title": "Documentação de Produtos LATAM/Documentación de Productos LATAM"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Quais documentos R\u0026D fornece?/¿Qué documentos R\u0026D proporcionan?"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

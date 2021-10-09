@@ -1,0 +1,46 @@
+[
+  {
+    "value": "PIS",
+    "synonyms": [
+      "PIS",
+      "ficha tecnica",
+      "hoja tecnica"
+    ]
+  },
+  {
+    "value": "Laudos",
+    "synonyms": [
+      "Laudos",
+      "laudo",
+      "laudo eficacia",
+      "eficcia"
+    ]
+  },
+  {
+    "value": "rotulo",
+    "synonyms": [
+      "rotulo",
+      "etiqueta"
+    ]
+  },
+  {
+    "value": "espec",
+    "synonyms": [
+      "espec"
+    ]
+  },
+  {
+    "value": "registro",
+    "synonyms": [
+      "registro",
+      "registro anvisa"
+    ]
+  },
+  {
+    "value": "teste kit",
+    "synonyms": [
+      "teste kit",
+      "kit test"
+    ]
+  }
+]

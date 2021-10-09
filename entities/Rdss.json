@@ -1,0 +1,9 @@
+{
+  "id": "ab0c9346-cb6f-4957-815c-ddc9f37d6477",
+  "name": "Rdss",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

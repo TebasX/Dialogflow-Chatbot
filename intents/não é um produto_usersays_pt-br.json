@@ -1,0 +1,21 @@
+[
+  {
+    "id": "bec58736-e302-4b77-bf46-b00e5c5258ea",
+    "data": [
+      {
+        "text": "@",
+        "userDefined": false
+      },
+      {
+        "text": "linhas",
+        "meta": "@linhasprodutos",
+        "alias": "linhasprodutos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

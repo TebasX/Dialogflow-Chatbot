@@ -1,0 +1,131 @@
+[
+  {
+    "id": "a9dbae41-60b3-47aa-988c-2fab05df9b53",
+    "data": [
+      {
+        "text": "PIS",
+        "meta": "@outras_areas",
+        "alias": "outras_areas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carefree",
+        "meta": "@Produtos",
+        "alias": "Produtos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b290383-dc25-48b2-abcf-1953b279280e",
+    "data": [
+      {
+        "text": "rotulo",
+        "meta": "@outras_areas",
+        "alias": "outras_areas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "acifoam",
+        "meta": "@Produtos",
+        "alias": "Produtos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf4e9f14-3fdd-4c88-aa28-965e4f8c3e7f",
+    "data": [
+      {
+        "text": "outros documentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39ee13bf-4567-4d5d-a3ea-0c73784b17f1",
+    "data": [
+      {
+        "text": "quero laudo de ",
+        "userDefined": false
+      },
+      {
+        "text": "eficacia",
+        "meta": "@outras_areas",
+        "alias": "outras_areas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28f3d192-d564-401e-9a44-eed3b1585215",
+    "data": [
+      {
+        "text": "procuro ",
+        "userDefined": false
+      },
+      {
+        "text": "rotulo",
+        "meta": "@outras_areas",
+        "alias": "outras_areas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b569595-f300-4fdb-91e4-42d6f6dc484c",
+    "data": [
+      {
+        "text": "ficha tecnica",
+        "meta": "@outras_areas",
+        "alias": "outras_areas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0479d210-54f4-4ee9-a9f9-0b6b05110b8f",
+    "data": [
+      {
+        "text": "@outras_areas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

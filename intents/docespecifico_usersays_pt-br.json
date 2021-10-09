@@ -1,0 +1,226 @@
+[
+  {
+    "id": "cab6d6a1-dd9e-40aa-aebf-752629f7d8d8",
+    "data": [
+      {
+        "text": "Solução em uso",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": true
+      },
+      {
+        "text": " do divostar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96978943-4cf6-4945-9090-6057c8f0f095",
+    "data": [
+      {
+        "text": "condutividade",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "booster",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "brasil",
+        "meta": "@pais",
+        "alias": "pais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7adbcbde-3062-46f1-b28c-a61dfd718aac",
+    "data": [
+      {
+        "text": "Fricção",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": false
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "D300",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "brazil",
+        "meta": "@pais",
+        "alias": "pais",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9db7a84d-77d1-4355-a69e-4c1b252d1db3",
+    "data": [
+      {
+        "text": "MSU",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "suma lube",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3c3ef42-1f88-4ee7-a4c0-86807720610a",
+    "data": [
+      {
+        "text": "biodegradabilidade",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "powerfoam",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f5601a11-8abd-4b66-9439-f5f36d00234a",
+    "data": [
+      {
+        "text": "condutividade",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "pascal",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42d1d0d9-a23c-4638-b85c-c1593b7fed1b",
+    "data": [
+      {
+        "text": "Food contact sem enxague",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": false
+      },
+      {
+        "text": "/sin enjuague",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4cf1b7e1-f0bb-4e82-a73d-7dbd40311dc2",
+    "data": [
+      {
+        "text": "Biodegradabilidade/Biodegradabilidad",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Coeficiente estatico de",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fricção",
+        "meta": "@Rdss",
+        "alias": "rdss",
+        "userDefined": false
+      },
+      {
+        "text": "/fricción",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

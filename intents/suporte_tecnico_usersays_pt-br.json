@@ -1,0 +1,189 @@
+[
+  {
+    "id": "8321bee1-b8ca-40fe-9ab7-ac3ffac9cb84",
+    "data": [
+      {
+        "text": "formulario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d184258f-596c-4461-852d-e193115f9992",
+    "data": [
+      {
+        "text": "preciso de suporte tecnico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "deb2b18d-3ed1-4cd0-8fc4-5965241992d8",
+    "data": [
+      {
+        "text": "Solicitação de Suporte Técnico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6749b1d1-3dbb-4547-a24b-7094d81b9514",
+    "data": [
+      {
+        "text": "solicitar suporte técnico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5cf60974-0bd0-46f6-8f11-fb4569051253",
+    "data": [
+      {
+        "text": "não",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      },
+      {
+        "text": " achei a informação que preciso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e78b9d99-9f1e-46a0-9194-9f1a50c6a765",
+    "data": [
+      {
+        "text": "ajuda com",
+        "userDefined": false
+      },
+      {
+        "text": " documentação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7d31f35-d7e7-439d-9539-fc1ad738592c",
+    "data": [
+      {
+        "text": "preciso de auxilio com",
+        "userDefined": false
+      },
+      {
+        "text": " produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33f4aa71-dcea-4fb5-b97b-faa73c165bb7",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " duvida ",
+        "userDefined": false
+      },
+      {
+        "text": "tecnica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "273adfa3-0d98-4065-a946-63fe518eca5f",
+    "data": [
+      {
+        "text": "teste ",
+        "userDefined": false
+      },
+      {
+        "text": "de manchas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7500bfb1-6ec0-4d97-9e34-257508800c90",
+    "data": [
+      {
+        "text": "teste de ",
+        "userDefined": false
+      },
+      {
+        "text": "tecidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0183a4cd-9ff4-46f9-b9f4-8423bf6ed74a",
+    "data": [
+      {
+        "text": "suporte ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " testes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

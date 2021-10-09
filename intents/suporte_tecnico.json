@@ -1,0 +1,107 @@
+{
+  "id": "62eddef1-955e-4ba7-95c0-2221be21aa06",
+  "name": "suporte_tecnico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3b5ad4e4-8840-4604-b930-7ddc669000f0",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fbbc5e6f-0ffb-4c91-b30f-a8e89f10d6a3",
+          "name": "produtos",
+          "required": false,
+          "dataType": "@Produtos",
+          "value": "$produtos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "Caso precise de auxilio para testes pode acessar o link a baixo.",
+          "title": "Formulário de suporte técnico",
+          "buttons": [
+            {
+              "postback": "https://docs.google.com/forms/d/e/1FAIpQLScxRFcJyIJKDeHUQ4TcIEmDgkj9tlK7hrO7kcwj7Fl-GmONKQ/viewform",
+              "text": "Formulário"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Caso não tenha encontrado o que precisa, você pode pedir auxilio através deste formulário:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Si no ha encontrado lo que necesita, puede solicitar ayuda mediante este formulario:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "title": "Formulário de Solicitação de Suporte Técnico / Solicitud de Soporte Técnico",
+                  "actionLink": "https://docs.google.com/forms/d/e/1FAIpQLScoFkp7X3h_LfPStm05FaEyK4L8umdj7gM_adOlI2A3YFyCzQ/viewform"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

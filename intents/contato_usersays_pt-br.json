@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c3d4256a-66ea-44e2-8bf3-4ca033520613",
+    "data": [
+      {
+        "text": "contato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc9b27ec-a9ac-4501-9775-57549fe8a349",
+    "data": [
+      {
+        "text": "qual o ",
+        "userDefined": false
+      },
+      {
+        "text": "contato",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "userDefined": false
+      },
+      {
+        "text": " área?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fad2d9bd-3a2b-435c-ba53-66d088bac31d",
+    "data": [
+      {
+        "text": "Qual o email de R\u0026D?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

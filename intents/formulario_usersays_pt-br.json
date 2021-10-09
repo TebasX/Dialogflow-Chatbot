@@ -1,0 +1,58 @@
+[
+  {
+    "id": "566a9a93-99a3-42b0-bf2b-3eb1608f19a7",
+    "data": [
+      {
+        "text": "analise de manchas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1d892f7-5c6c-4997-bf99-2ed2b4991c47",
+    "data": [
+      {
+        "text": "analise ",
+        "userDefined": false
+      },
+      {
+        "text": "tecidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fbbd470-f1d7-4eef-9eb2-079aa299dd1d",
+    "data": [
+      {
+        "text": "formulario de suporte / soporte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f14cc1f-6e0f-4869-a256-7f9f794a50b5",
+    "data": [
+      {
+        "text": "formualrio de suporte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

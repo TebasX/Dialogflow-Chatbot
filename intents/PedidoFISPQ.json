@@ -1,0 +1,82 @@
+{
+  "id": "9653fcd7-3e4a-40a8-9489-d241424927d0",
+  "name": "PedidoFISPQ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eecaa609-e994-4725-84d4-dd571a39cc64",
+          "name": "fichaseguranca",
+          "required": false,
+          "dataType": "@fichaseguranca",
+          "value": "$fichaseguranca",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1015f4b1-da88-4bff-ad44-0a7e08788acd",
+          "name": "Produtos",
+          "required": false,
+          "dataType": "@Produtos",
+          "value": "$Produtos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A FISPQ não é um documento emitido por R\u0026D, para consulta-la acesse o link abaixo. \n Caso esteja fora da empresa é necessário usar o VPN para acessar."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "http://sdsintranet.diversey.corp/?guiLang\u003dBZ",
+                  "type": "info",
+                  "title": "FISPQ"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

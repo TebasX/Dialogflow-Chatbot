@@ -1,0 +1,100 @@
+[
+  {
+    "id": "96bc55bc-a426-4088-913e-05ee2857274e",
+    "data": [
+      {
+        "text": "acifoam",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dea8c825-de64-4d1c-9b66-2638e6d28f15",
+    "data": [
+      {
+        "text": "tc86",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e8ebef27-d337-4594-8240-23168e172b20",
+    "data": [
+      {
+        "text": "pascal",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b1885572-93f6-4af8-b72f-477a72f6dd9f",
+    "data": [
+      {
+        "text": "@produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4ed2736-4a94-46d9-9f88-1afe494bf9a3",
+    "data": [
+      {
+        "text": "oxivir wipes",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61d43189-eec1-4790-8ca6-519403b6db46",
+    "data": [
+      {
+        "text": "dicolube D64",
+        "meta": "@Produtos",
+        "alias": "produtos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "br",
+        "meta": "@pais",
+        "alias": "pais",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Biodegradabilidade",
+    "synonyms": [
+      "Biodegradabilidade",
+      "carta de biodegradabilildade",
+      "Biodegradabilidade/Biodegradabilidad",
+      "bio"
+    ]
+  },
+  {
+    "value": "FoodContact",
+    "synonyms": [
+      "carta de food contact",
+      "food contact",
+      "foodcontact",
+      "Food contact sem enxague"
+    ]
+  },
+  {
+    "value": "Rinsed",
+    "synonyms": [
+      "rinsed",
+      "Food Contact Safety Letter Rinsed",
+      "Food Contact com enxague"
+    ]
+  },
+  {
+    "value": "Fricção",
+    "synonyms": [
+      "fricção",
+      "atrito",
+      "Carta de Fricção",
+      "coef de fricção"
+    ]
+  },
+  {
+    "value": "Validadedesolucao",
+    "synonyms": [
+      "validadede solução",
+      "validade de solução em uso",
+      "validade de solução",
+      "solução em uso",
+      "solução de uso"
+    ]
+  }
+]

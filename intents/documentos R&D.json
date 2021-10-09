@@ -1,0 +1,115 @@
+{
+  "id": "c3766728-9a24-4674-bfa6-db2729afbe45",
+  "name": "documentos R\u0026D",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "Carta de biodegradabilidade",
+                      "text": "Carta de biodegradabilidade"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "foodcontact com enxague",
+                      "text": "Carta de Foodcontact com enxague:"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "Foodcontact sem enxague",
+                      "text": "Carta de Foodcontact sem enxague:"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Coeficiente de fricção",
+                      "callback_data": "Coeficiente de fricção"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Validade de solução em uso",
+                      "callback_data": "Validade de solução em uso"
+                    }
+                  ]
+                ]
+              },
+              "text": "R\u0026D fornece os seguintes documentos:"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O R\u0026D fornece os seguintes documentos:\n\nR\u0026D proporciona los siguientes documentos:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Biodegradabilidade/Biodegradabilidad"
+                    },
+                    {
+                      "text": "Food contact com enxague/con enjuague"
+                    },
+                    {
+                      "text": "Food contact sem enxague/sin enjuague"
+                    },
+                    {
+                      "text": "Coeficiente estatico de fricção/fricción"
+                    },
+                    {
+                      "text": "Validade de solução em uso/Validez de solución de uso"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

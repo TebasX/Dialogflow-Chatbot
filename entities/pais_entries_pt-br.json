@@ -1,0 +1,69 @@
+[
+  {
+    "value": "Brazil",
+    "synonyms": [
+      "Brasil",
+      "BR",
+      "Brazil"
+    ]
+  },
+  {
+    "value": "Argentina",
+    "synonyms": [
+      "Argentina",
+      "Ar"
+    ]
+  },
+  {
+    "value": "Chile",
+    "synonyms": [
+      "Chile",
+      "CH"
+    ]
+  },
+  {
+    "value": "Peru",
+    "synonyms": [
+      "Peru",
+      "peru"
+    ]
+  },
+  {
+    "value": "Colombia",
+    "synonyms": [
+      "Colombia",
+      "colômbia"
+    ]
+  },
+  {
+    "value": "Mexico",
+    "synonyms": [
+      "Mexico",
+      "MX"
+    ]
+  },
+  {
+    "value": "Paraguay",
+    "synonyms": [
+      "Paraguay"
+    ]
+  },
+  {
+    "value": "Equador",
+    "synonyms": [
+      "Equador"
+    ]
+  },
+  {
+    "value": "Caribe",
+    "synonyms": [
+      "Caribe"
+    ]
+  },
+  {
+    "value": "CAM",
+    "synonyms": [
+      "CAM"
+    ]
+  }
+]

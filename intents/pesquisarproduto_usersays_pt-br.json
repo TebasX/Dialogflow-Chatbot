@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0668f732-6989-4b87-ad84-d061c4255111",
+    "data": [
+      {
+        "text": "buscar producto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12b7ca09-8634-4014-8fff-0d3e0c2390ad",
+    "data": [
+      {
+        "text": "buscar produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28055620-c108-401c-abbb-c93bce37c4e7",
+    "data": [
+      {
+        "text": "pesquisar por produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "1acefaa0-aa96-4ed5-81b5-94c1485a76a3",
+  "name": "fichaseguranca",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

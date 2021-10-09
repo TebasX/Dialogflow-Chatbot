@@ -1,0 +1,41 @@
+[
+  {
+    "id": "dccf8dba-9468-4c41-b167-5218f81bb03a",
+    "data": [
+      {
+        "text": "o que posso perguntar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eeafa55e-cc97-4e5d-a5a8-e7e4d84977d5",
+    "data": [
+      {
+        "text": "ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4bd68638-c8e9-4a1f-9019-a1e0670c7a91",
+    "data": [
+      {
+        "text": "menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

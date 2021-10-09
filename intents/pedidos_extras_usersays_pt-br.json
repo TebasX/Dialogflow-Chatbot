@@ -1,0 +1,28 @@
+[
+  {
+    "id": "66018f86-93a9-47e8-a6c4-84f17d321032",
+    "data": [
+      {
+        "text": "O tebas pode criar um bot para a minha area?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42bf2547-9551-44dd-bc19-eed9869fa131",
+    "data": [
+      {
+        "text": "o tonho pode fazer um bot pra mim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

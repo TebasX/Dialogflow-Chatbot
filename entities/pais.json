@@ -1,0 +1,9 @@
+{
+  "id": "b3877a76-1943-49ff-a35a-c05719736db1",
+  "name": "pais",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
